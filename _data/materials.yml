@@ -2,7 +2,7 @@
 # as its repo has it. Edit nothing here; it is rewritten on every sync.
 sections:
   - name: "labs"
-    files: 4
+    files: 5
     entries:
       - name: "01_deep-learning-in-public-policy/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs/01_deep-learning-in-public-policy
@@ -24,6 +24,12 @@ sections:
         entries:
           - name: "Lab_Session_3.ipynb"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/03_deep-neural-networks-2/Lab_Session_3.ipynb
+      - name: "04_computer-vision-1-cnns/"
+        url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs/04_computer-vision-1-cnns
+        files: 1
+        entries:
+          - name: "Lab_Session_4.ipynb"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/04_computer-vision-1-cnns/Lab_Session_4.ipynb
   - name: "lectures"
     files: 4
     entries:
@@ -52,7 +58,7 @@ sections:
           - name: "Session4_E1394_DL_preLecture.pdf"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/04_computer-vision-1-cnns/Session4_E1394_DL_preLecture.pdf
   - name: "readings"
-    files: 8
+    files: 11
     entries:
       - name: "01_deep-learning-in-public-policy/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/readings/01_deep-learning-in-public-policy
@@ -86,3 +92,13 @@ sections:
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/04_computer-vision-1-cnns/Kerner%2C%20H.%2C%20Tseng%2C%20G.%2C%20Becker-Reshef%2C%20I.%2C%20Nakalembe%2C%20C.%2C%20Barker%2C%20B.%2C%20Munshell%2C%20B.%2C%20Paliyam%2C%20M.%20and%20Hosseini%2C%20M.%2C%202020.%20Rapid%20Response%20Crop%20Maps%20in%20Data%20Sparse%20Regions.%20arXiv%20preprin.pdf
           - name: "READINGS.md"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/04_computer-vision-1-cnns/READINGS.md
+      - name: "05_computer-vision-2-modern-cnns/"
+        url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/readings/05_computer-vision-2-modern-cnns
+        files: 3
+        entries:
+          - name: "1512.02325v5.pdf"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/05_computer-vision-2-modern-cnns/1512.02325v5.pdf
+          - name: "41586_2021_3957_MOESM1_ESM-2.pdf"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/05_computer-vision-2-modern-cnns/41586_2021_3957_MOESM1_ESM-2.pdf
+          - name: "U-Net_ Convolutional Networks for Biomedical Image Segmentation.pdf"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/05_computer-vision-2-modern-cnns/U-Net_%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf
