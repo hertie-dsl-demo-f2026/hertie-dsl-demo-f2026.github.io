@@ -7,4 +7,4 @@ description: "Regulation, auditing and the documented harms of large models, wit
 unreleased: true
 links: []
 ---
-Materials for session 10 are not released yet - they will appear in [`materials/lectures/10_policy-approaches-and-responsible-implementation`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures) when released.
+Materials for session 10 are not released yet.
