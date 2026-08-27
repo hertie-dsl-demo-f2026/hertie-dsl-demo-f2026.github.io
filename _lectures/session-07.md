@@ -1,0 +1,10 @@
+---
+type: lecture
+date: 2026-09-15T10:00:00
+title: "Session 7"
+subtitle: "Natural language processing (1)"
+description: "Text as data: tokenisation, embeddings, and what a language model is actually estimati ng."
+unreleased: true
+links: []
+---
+Materials for session 7 are not released yet - they will appear in [`materials/lectures/07_natural-language-processing-1`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures) when released.
