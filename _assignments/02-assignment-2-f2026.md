@@ -11,4 +11,4 @@ due_event:
     date: 2026-09-29T23:59:00
     description: "Assignment 2"
 ---
-Assignment 2 has not been handed out yet - your private `assignment-2-<your-handle>` repo in `hertie-dsl-demo-course-e1234`'s cohort org appears when it is.
+Assignment 2 has not been handed out yet - your private `assignment-2-<your-handle>` repo appears when it does.
