@@ -12,11 +12,12 @@ reading_list: |2
 
   #### Required Readings
 
-  - Ng, A., *CS229 Lecture Notes*, Stanford. Sections on backpropagation. PDF below.
+  - Ng, A. & Ma, T., *CS229 Lecture Notes*, Stanford. Sections on backpropagation.
+    Read online: <https://cs229.stanford.edu/main_notes.pdf>
+
+  *This is a public repository, so copyrighted readings are cited rather than redistributed.*
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/03_deep-neural-networks-2/Session3_E1394_DL_Lecture.pdf
       name: "lecture - Session3_E1394_DL_Lecture.pdf"
-    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/03_deep-neural-networks-2/Stamford%20-%20CS229%20Lecture%20Notes%20-%20Andre%20Ng.pdf
-      name: "reading - Stamford - CS229 Lecture Notes - Andre Ng.pdf"
 ---
 
