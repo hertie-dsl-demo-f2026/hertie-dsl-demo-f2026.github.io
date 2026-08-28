@@ -11,4 +11,4 @@ unreleased: true
 readings_pending: true
 links: []
 ---
-**Materials for session 8 are not yet released** - they will appear in [`materials/lectures/08_nlp-2-encoder-decoder-and-attention`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures), [`materials/readings/08_nlp-2-encoder-decoder-and-attention`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/readings) when they are.
+_**Materials for session 8 are not yet released** - they will appear in [`materials/lectures/08_nlp-2-encoder-decoder-and-attention`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures), [`materials/readings/08_nlp-2-encoder-decoder-and-attention`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/readings) when they are._

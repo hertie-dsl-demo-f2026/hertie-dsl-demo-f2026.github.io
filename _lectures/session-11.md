@@ -11,4 +11,4 @@ unreleased: true
 readings_pending: true
 links: []
 ---
-**Materials for session 11 are not yet released** - they will appear in [`materials/readings/11_deep-learning-in-practice`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/readings) when they are.
+_**Materials for session 11 are not yet released** - they will appear in [`materials/readings/11_deep-learning-in-practice`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/readings) when they are._

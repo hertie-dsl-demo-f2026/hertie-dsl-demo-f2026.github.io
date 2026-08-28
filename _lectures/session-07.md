@@ -10,4 +10,4 @@ description: "Text as data: tokenisation, embeddings, and what a language model 
 unreleased: true
 links: []
 ---
-**Materials for session 7 are not yet released** - they will appear in [`materials/lectures/07_natural-language-processing-1`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures) when they are.
+_**Materials for session 7 are not yet released** - they will appear in [`materials/lectures/07_natural-language-processing-1`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures) when they are._
