@@ -9,4 +9,4 @@ subtitle: "Lab 9"
 unreleased: true
 links: []
 ---
-Materials for lab 9 are not released yet - they will appear in [`materials/labs/09_further-topics`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs) when released.
+_**Materials for lab 9 are not yet released** - they will appear in [`materials/labs/09_further-topics`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs) when they are._

@@ -10,4 +10,4 @@ description: "Recurrent architectures and their limits; where classical time-ser
 unreleased: true
 links: []
 ---
-Materials for session 6 are not released yet - they will appear in [`materials/lectures/06_sequence-methods-and-time-series`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures) when released.
+_**Materials for session 6 are not yet released** - they will appear in [`materials/lectures/06_sequence-methods-and-time-series`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures) when they are._

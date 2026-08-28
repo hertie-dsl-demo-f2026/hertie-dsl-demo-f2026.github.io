@@ -10,4 +10,4 @@ description: "Students present their tutorial topic to the group."
 unreleased: true
 links: []
 ---
-Materials for session 12 are not released yet.
+_**Materials for session 12 are not yet released**._
