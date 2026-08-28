@@ -36,7 +36,7 @@ address: |
 # Restyling happens there and propagates to every DSL site (see that repo).
 # STAGING PIN - dsl-jekyll-theme#16, for visual review of the pending-assignment
 # rows. Revert to the unpinned line below when that PR merges.
-remote_theme: hertie-data-science-lab/dsl-jekyll-theme@d337421555f186a9ce70cb576782d5cd44b001be
+remote_theme: hertie-data-science-lab/dsl-jekyll-theme@193ba58c812598758027e5263365f9835ade6434
 # remote_theme: hertie-data-science-lab/dsl-jekyll-theme
 plugins:
   - jekyll-remote-theme
