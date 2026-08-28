@@ -34,7 +34,10 @@ address: |
 
 # Shared visual theme — layout, branding and styles come from dsl-jekyll-theme.
 # Restyling happens there and propagates to every DSL site (see that repo).
-remote_theme: hertie-data-science-lab/dsl-jekyll-theme
+# STAGING PIN - dsl-jekyll-theme#16, for visual review of the pending-assignment
+# rows. Revert to the unpinned line below when that PR merges.
+remote_theme: hertie-data-science-lab/dsl-jekyll-theme@fix/pending-assignment-rows
+# remote_theme: hertie-data-science-lab/dsl-jekyll-theme
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
