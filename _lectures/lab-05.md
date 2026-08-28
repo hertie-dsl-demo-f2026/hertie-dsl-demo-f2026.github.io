@@ -5,7 +5,6 @@
 type: lab
 date: 2026-09-03T14:00:00
 title: "Lab 5"
-subtitle: "Lab 5"
 unreleased: true
 links: []
 ---
