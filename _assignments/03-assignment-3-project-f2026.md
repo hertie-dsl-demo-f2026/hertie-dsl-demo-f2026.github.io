@@ -5,14 +5,14 @@
 type: assignment
 date: 2026-09-15T14:00:00
 title: "Assignment 3 Project"
-subtitle: "Group project - an end-to-end modelling report"
+subtitle: "Group project"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-3-project-"
 repo_name: "assignment-3-project-<your-team>"
 due_event:
     type: due
     date: 2026-10-23T23:59:00
     description: "Assignment 3 Project"
-    subtitle: "Group project - an end-to-end modelling report"
+    subtitle: "Group project"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-3-project-"
     repo_name: "assignment-3-project-<your-team>"
 ---
