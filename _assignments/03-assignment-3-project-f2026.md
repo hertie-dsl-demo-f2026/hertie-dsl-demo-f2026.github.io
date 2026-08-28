@@ -11,6 +11,8 @@ due_event:
     type: due
     date: 2026-10-23T23:59:00
     description: "Group project - an end-to-end modelling report"
+    repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-3-project-"
+    repo_name: "assignment-3-project-<your-team>"
 ---
 {% raw %}
 **Weight:** 25% of the final mark

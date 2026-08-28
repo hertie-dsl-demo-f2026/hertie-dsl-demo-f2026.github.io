@@ -11,6 +11,8 @@ due_event:
     type: due
     date: 2026-09-08T23:59:00
     description: "Assignment 1 - linear regression from scratch (individual)"
+    repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-1-"
+    repo_name: "assignment-1-<your-handle>"
 ---
 {% raw %}
 Implement ordinary least squares yourself in `starter.py`, standard library only - fill in

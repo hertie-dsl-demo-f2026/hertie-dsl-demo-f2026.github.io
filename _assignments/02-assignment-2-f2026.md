@@ -6,9 +6,11 @@ type: assignment
 date: 2026-09-01T14:00:00
 title: "Assignment 2"
 handout_pending: true
+repo_name: "assignment-2-<your-handle>"
 due_event:
     type: due
     date: 2026-09-29T23:59:00
     description: "Assignment 2"
+    repo_name: "assignment-2-<your-handle>"
 ---
-_**Not handed out yet** - your private `assignment-2-<your-handle>` repo appears when it is._
+_**Assignment 2 is not yet released** - your private `assignment-2-<your-handle>` repo appears when it is._
