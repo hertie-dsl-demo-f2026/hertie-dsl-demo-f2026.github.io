@@ -5,8 +5,6 @@
 type: assignment
 date: 2026-09-15T14:00:00
 title: "Group project - an end-to-end modelling report"
-repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-3-project-"
-repo_name: "assignment-3-project-<your-team>"
 due_event:
     type: due
     date: 2026-10-23T23:59:00
@@ -101,3 +99,5 @@ with a better one; teams that come with a finished model leave with a list.
 3. Split once, early, and do not look at the test set again until the report is written.
 4. Commit often, in everyone's name. The history is evidence.
 {% endraw %}
+
+_Your private `assignment-3-project-<your-handle>` repo in `hertie-dsl-demo-course-e1234`'s cohort org appears once the teaching team provisions it._

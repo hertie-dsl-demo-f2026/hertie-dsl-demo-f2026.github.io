@@ -9,4 +9,4 @@ subtitle: "Lab 6"
 unreleased: true
 links: []
 ---
-_**Materials for lab 6 are not yet released** - they will appear in [`materials/labs/06_sequence-methods-and-time-series`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs) when they are._
+Materials for lab 6 are not released yet - they will appear in [`materials/labs/06_sequence-methods-and-time-series`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs) when released.

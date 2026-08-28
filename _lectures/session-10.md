@@ -11,4 +11,4 @@ unreleased: true
 readings_pending: true
 links: []
 ---
-_**Materials for session 10 are not yet released** - they will appear in [`materials/readings/10_policy-approaches-and-responsible-implementation`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/readings) when they are._
+Materials for session 10 are not released yet - they will appear in [`materials/readings/10_policy-approaches-and-responsible-implementation`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/readings) when released.

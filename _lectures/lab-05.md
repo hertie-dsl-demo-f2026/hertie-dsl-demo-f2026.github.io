@@ -9,4 +9,4 @@ subtitle: "Lab 5"
 unreleased: true
 links: []
 ---
-_**Materials for lab 5 are not yet released** - they will appear in [`materials/labs/05_computer-vision-2-modern-cnns`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs) when they are._
+Materials for lab 5 are not released yet - they will appear in [`materials/labs/05_computer-vision-2-modern-cnns`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs) when released.
