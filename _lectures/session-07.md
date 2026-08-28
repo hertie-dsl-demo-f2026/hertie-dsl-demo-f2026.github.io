@@ -6,7 +6,7 @@ type: lecture
 date: 2026-09-15T10:00:00
 title: "Session 7"
 subtitle: "Natural language processing (1)"
-description: "Text as data: tokenisation, embeddings, and what a language model is actually estimati ng."
+description: "Text as data: tokenisation, embeddings, and what a language model is actually estimating."
 unreleased: true
 links: []
 ---

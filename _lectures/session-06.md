@@ -6,7 +6,7 @@ type: lecture
 date: 2026-09-08T10:00:00
 title: "Session 6"
 subtitle: "Sequence methods and time-series analysis"
-description: "Recurrent architectures and their limits; where classical time-series methods remain t he better tool."
+description: "Recurrent architectures and their limits; where classical time-series methods remain the better tool."
 unreleased: true
 links: []
 ---

@@ -6,7 +6,7 @@ type: lecture
 date: 2026-09-22T10:00:00
 title: "Session 8"
 subtitle: "Natural language processing (2): Encoder-decoder architecture and attention"
-description: "The attention mechanism and the transformer, read through the papers that introduced t hem."
+description: "The attention mechanism and the transformer, read through the papers that introduced them."
 unreleased: true
 readings_pending: true
 links: []
