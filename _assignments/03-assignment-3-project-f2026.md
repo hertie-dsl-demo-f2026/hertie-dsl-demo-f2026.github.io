@@ -4,13 +4,15 @@
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: assignment
 date: 2026-09-15T14:00:00
-title: "Group project - an end-to-end modelling report"
+title: "Assignment 3 Project"
+subtitle: "Group project - an end-to-end modelling report"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-3-project-"
 repo_name: "assignment-3-project-<your-team>"
 due_event:
     type: due
     date: 2026-10-23T23:59:00
-    description: "Group project - an end-to-end modelling report"
+    description: "Assignment 3 Project"
+    subtitle: "Group project - an end-to-end modelling report"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-3-project-"
     repo_name: "assignment-3-project-<your-team>"
 ---

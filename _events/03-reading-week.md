@@ -3,7 +3,6 @@
 # rewrites this whole collection on every run. Edit the source instead: the cohort's
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: special_event
-name: "Reading week - no class"
 date: 2026-10-06T09:00:00
-description: ""
+description: "Reading week - no class"
 ---

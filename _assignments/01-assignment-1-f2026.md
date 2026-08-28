@@ -4,13 +4,15 @@
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: assignment
 date: 2026-08-18T14:00:00
-title: "Assignment 1 - linear regression from scratch (individual)"
+title: "Assignment 1"
+subtitle: "linear regression from scratch (individual)"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-1-"
 repo_name: "assignment-1-<your-handle>"
 due_event:
     type: due
     date: 2026-09-08T23:59:00
-    description: "Assignment 1 - linear regression from scratch (individual)"
+    description: "Assignment 1"
+    subtitle: "linear regression from scratch (individual)"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-1-"
     repo_name: "assignment-1-<your-handle>"
 ---
