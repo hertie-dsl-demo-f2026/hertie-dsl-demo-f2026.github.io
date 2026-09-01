@@ -6,13 +6,37 @@ type: assignment
 date: 2026-09-01T14:00:00
 title: "Assignment 2"
 subtitle: "Classification and evaluation"
-handout_pending: true
+repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-2-"
 repo_name: "assignment-2-<your-handle>"
 due_event:
     type: due
     date: 2026-09-29T23:59:00
     description: "Assignment 2"
     subtitle: "Classification and evaluation"
+    repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-2-"
     repo_name: "assignment-2-<your-handle>"
 ---
-_**Assignment 2 is not yet released** - your private `assignment-2-<your-handle>` repo appears when it is._
+{% raw %}
+Implement logistic regression and its evaluation yourself in `starter.ipynb`, standard
+library only - `sigmoid`, `log_loss`, `predict_proba`, `fit_logistic`, `confusion_counts`,
+`precision_recall_f1` and `choose_threshold` - then use them to choose and defend a
+decision threshold for a lending decision.
+
+Push to `main` in your assignment repository - that push is your submission.
+Due: Tuesday 29 September 2026, 23:59 (Europe/Berlin). Worth 20% of the final mark.
+
+## What is assessed
+
+- **8 marks, automated.** Hidden tests run after the deadline against the seven functions.
+- **7 marks, by hand.** Code quality: clear names, no repetition, the numerical guards the
+  docstrings ask for.
+- **5 marks, by hand.** Your write-up in section 9 - the cost ratio, the threshold it
+  implies, and one thing this evaluation cannot settle.
+
+## Before you start
+
+The grader converts this notebook to a script and imports it, so **every top-level cell
+runs at grading time**. A cell that raises stops the import and costs you all eight
+automated marks. Keep the exploratory cells inside their `try/except NotImplementedError`
+guards, and keep any experiments of your own inside the same guard.
+{% endraw %}
