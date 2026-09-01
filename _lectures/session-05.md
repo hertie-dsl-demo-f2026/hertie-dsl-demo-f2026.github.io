@@ -24,6 +24,8 @@ reading_list: |2
 
   *This is a public repository, so copyrighted readings are cited rather than redistributed.*
 links:
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/05_computer-vision-2-modern-cnns/Session5_E1394_DL_Lecture.pdf
+      name: "lecture - Session5_E1394_DL_Lecture.pdf"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/05_computer-vision-2-modern-cnns/1512.02325v5.pdf
       name: "reading - 1512.02325v5.pdf"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/05_computer-vision-2-modern-cnns/U-Net_%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf
