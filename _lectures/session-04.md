@@ -25,8 +25,10 @@ reading_list: |2
   *This is a public repository, so copyrighted readings are cited rather than redistributed.*
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/04_computer-vision-1-cnns/Session4_E1394_DL_preLecture.pdf
-      name: "lecture - Session4_E1394_DL_preLecture.pdf"
+      name: "Session4_E1394_DL_preLecture.pdf"
+      section: "lecture"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/04_computer-vision-1-cnns/Kerner%2C%20H.%2C%20Tseng%2C%20G.%2C%20Becker-Reshef%2C%20I.%2C%20Nakalembe%2C%20C.%2C%20Barker%2C%20B.%2C%20Munshell%2C%20B.%2C%20Paliyam%2C%20M.%20and%20Hosseini%2C%20M.%2C%202020.%20Rapid%20Response%20Crop%20Maps%20in%20Data%20Sparse%20Regions.%20arXiv%20preprin.pdf
-      name: "reading - Kerner, H., Tseng, G., Becker-Reshef, I., Nakalembe, C., Barker, B., Munshell, B., Paliyam, M. and Hosseini, M., 2020. Rapid Response Crop Maps in Data Sparse Regions. arXiv preprin.pdf"
+      name: "Kerner, H., Tseng, G., Becker-Reshef, I., Nakalembe, C., Barker, B., Munshell, B., Paliyam, M. and Hosseini, M., 2020. Rapid Response Crop Maps in Data Sparse Regions. arXiv preprin.pdf"
+      section: "reading"
 ---
 

@@ -18,6 +18,7 @@ reading_list: |2
   *This is a public repository, so copyrighted readings are cited rather than redistributed.*
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/03_deep-neural-networks-2/Session3_E1394_DL_Lecture.pdf
-      name: "lecture - Session3_E1394_DL_Lecture.pdf"
+      name: "Session3_E1394_DL_Lecture.pdf"
+      section: "lecture"
 ---
 

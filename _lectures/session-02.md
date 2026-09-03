@@ -16,6 +16,7 @@ reading_list: |2
   https://playground.tensorflow.org/
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/02_deep-neural-networks-1/Session2_E1394_DL.pdf
-      name: "lecture - Session2_E1394_DL.pdf"
+      name: "Session2_E1394_DL.pdf"
+      section: "lecture"
 ---
 
