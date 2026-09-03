@@ -5,7 +5,9 @@
 type: lab
 date: 2026-09-03T14:00:00
 title: "Lab 5"
-unreleased: true
-links: []
+links:
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/05_computer-vision-2-modern-cnns/Lab_Session_5.ipynb
+      name: "Lab_Session_5.ipynb"
+      section: "lab"
 ---
-_**Materials for lab 5 are not yet released** - they will appear in [`materials/labs/05_computer-vision-2-modern-cnns`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs) when they are._
+

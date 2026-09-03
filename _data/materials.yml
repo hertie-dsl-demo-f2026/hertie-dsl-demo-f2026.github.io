@@ -6,7 +6,7 @@ documents:
     url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/SYLLABUS.md
 sections:
   - name: "labs"
-    files: 5
+    files: 6
     entries:
       - name: "01_deep-learning-in-public-policy/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs/01_deep-learning-in-public-policy
@@ -34,6 +34,12 @@ sections:
         entries:
           - name: "Lab_Session_4.ipynb"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/04_computer-vision-1-cnns/Lab_Session_4.ipynb
+      - name: "05_computer-vision-2-modern-cnns/"
+        url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs/05_computer-vision-2-modern-cnns
+        files: 1
+        entries:
+          - name: "Lab_Session_5.ipynb"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/05_computer-vision-2-modern-cnns/Lab_Session_5.ipynb
   - name: "lectures"
     files: 5
     entries:
