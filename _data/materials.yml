@@ -74,7 +74,7 @@ sections:
           - name: "Session5_E1394_DL_Lecture.pdf"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/05_computer-vision-2-modern-cnns/Session5_E1394_DL_Lecture.pdf
   - name: "readings"
-    files: 8
+    files: 11
     entries:
       - name: "01_deep-learning-in-public-policy/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/readings/01_deep-learning-in-public-policy
@@ -112,3 +112,13 @@ sections:
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/05_computer-vision-2-modern-cnns/READINGS.md
           - name: "U-Net_ Convolutional Networks for Biomedical Image Segmentation.pdf"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/05_computer-vision-2-modern-cnns/U-Net_%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf
+      - name: "09_further-topics/"
+        url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/readings/09_further-topics
+        files: 3
+        entries:
+          - name: "Gawlikowski.pdf"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/09_further-topics/Gawlikowski.pdf
+          - name: "references.bib"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/09_further-topics/references.bib
+          - name: "seminar-notes.md"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/09_further-topics/seminar-notes.md
