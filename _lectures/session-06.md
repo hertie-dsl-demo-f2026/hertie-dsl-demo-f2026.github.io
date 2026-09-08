@@ -7,7 +7,12 @@ date: 2026-09-08T10:00:00
 title: "Session 6"
 subtitle: "Sequence methods and time-series analysis"
 description: "Recurrent architectures and their limits; where classical time-series methods remain the better tool."
-unreleased: true
-links: []
+links:
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_Lecture.pdf
+      name: "Session6_E1394_DL_Lecture.pdf"
+      section: "lecture"
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_preLecture.pdf
+      name: "Session6_E1394_DL_preLecture.pdf"
+      section: "lecture"
 ---
-_**Materials for session 6 are not yet released** - they will appear in [`materials/lectures/06_sequence-methods-and-time-series`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures) when they are._
+
