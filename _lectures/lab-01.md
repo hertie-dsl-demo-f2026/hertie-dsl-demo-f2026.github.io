@@ -12,5 +12,8 @@ links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/01_deep-learning-in-public-policy/Lab_session_1_Introduction_to_pandas.ipynb
       name: "Lab_session_1_Introduction_to_pandas.ipynb"
       section: "lab"
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/01_deep-learning-in-public-policy/NOTES.md
+      name: "NOTES.md"
+      section: "lab"
 ---
 

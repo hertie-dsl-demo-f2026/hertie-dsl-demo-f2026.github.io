@@ -6,16 +6,18 @@ documents:
     url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/SYLLABUS.md
 sections:
   - name: "labs"
-    files: 7
+    files: 8
     entries:
       - name: "01_deep-learning-in-public-policy/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs/01_deep-learning-in-public-policy
-        files: 2
+        files: 3
         entries:
           - name: "Lab_Session_1.ipynb"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/01_deep-learning-in-public-policy/Lab_Session_1.ipynb
           - name: "Lab_session_1_Introduction_to_pandas.ipynb"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/01_deep-learning-in-public-policy/Lab_session_1_Introduction_to_pandas.ipynb
+          - name: "NOTES.md"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/01_deep-learning-in-public-policy/NOTES.md
       - name: "02_deep-neural-networks-1/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs/02_deep-neural-networks-1
         files: 1

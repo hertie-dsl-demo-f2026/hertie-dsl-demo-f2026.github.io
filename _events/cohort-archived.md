@@ -3,8 +3,9 @@
 # rewrites this whole collection on every run. Edit the source instead: the cohort's
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: special_event
-date: 2027-01-12T09:00:00
+date: 2026-09-20T09:00:00
 hide_time: true
+announce: true
 description: "Cohort archived"
 ---
-This cohort is archived on 2027-01-12: every repository in it becomes read-only. You keep read access to everything you can see now, so take a copy of anything you want to go on working in.
+This cohort is archived on 2026-09-20: every repository in it becomes read-only. You keep read access to everything you can see now, so take a copy of anything you want to go on working in.
