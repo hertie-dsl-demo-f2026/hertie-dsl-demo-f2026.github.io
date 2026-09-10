@@ -7,4 +7,4 @@ date: 2027-01-12T09:00:00
 hide_time: true
 description: "Cohort archived"
 ---
-This cohort is archived on 2027-01-12: every repository in it becomes read-only. You keep read access to everything you can see now, so take a copy of anything you want to go on working in.
+This cohort is archived on 2027-01-12: every repository in it becomes read-only. You keep read access, so you can still fork or clone anything you want to keep working on into your own account.
