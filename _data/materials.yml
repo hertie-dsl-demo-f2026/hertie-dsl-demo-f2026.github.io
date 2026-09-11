@@ -49,12 +49,22 @@ sections:
           - name: "Lab_session_6_&_7.ipynb"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/06_sequence-methods-and-time-series/Lab_session_6_%26_7.ipynb
   - name: "lectures"
-    files: 7
+    files: 10
     entries:
       - name: "01_deep-learning-in-public-policy/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures/01_deep-learning-in-public-policy
-        files: 1
+        files: 4
         entries:
+          - name: "Session1_demo_deck_files/"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures/01_deep-learning-in-public-policy/Session1_demo_deck_files
+            files: 2
+            entries:
+              - name: "deck.css"
+                url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/01_deep-learning-in-public-policy/Session1_demo_deck_files/deck.css
+              - name: "figure.svg"
+                url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/01_deep-learning-in-public-policy/Session1_demo_deck_files/figure.svg
+          - name: "Session1_demo_deck.html"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/01_deep-learning-in-public-policy/Session1_demo_deck.html
           - name: "Session1_E1394_DL_preLecture.pdf"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/01_deep-learning-in-public-policy/Session1_E1394_DL_preLecture.pdf
       - name: "02_deep-neural-networks-1/"
