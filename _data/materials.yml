@@ -65,40 +65,48 @@ sections:
                 url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/01_deep-learning-in-public-policy/Session1_demo_deck_files/figure.svg
           - name: "Session1_demo_deck.html"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/01_deep-learning-in-public-policy/Session1_demo_deck.html
+            view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/01_deep-learning-in-public-policy/Session1_demo_deck.html
           - name: "Session1_E1394_DL_preLecture.pdf"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/01_deep-learning-in-public-policy/Session1_E1394_DL_preLecture.pdf
+            view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/01_deep-learning-in-public-policy/Session1_E1394_DL_preLecture.pdf
       - name: "02_deep-neural-networks-1/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures/02_deep-neural-networks-1
         files: 1
         entries:
           - name: "Session2_E1394_DL.pdf"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/02_deep-neural-networks-1/Session2_E1394_DL.pdf
+            view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/02_deep-neural-networks-1/Session2_E1394_DL.pdf
       - name: "03_deep-neural-networks-2/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures/03_deep-neural-networks-2
         files: 1
         entries:
           - name: "Session3_E1394_DL_Lecture.pdf"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/03_deep-neural-networks-2/Session3_E1394_DL_Lecture.pdf
+            view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/03_deep-neural-networks-2/Session3_E1394_DL_Lecture.pdf
       - name: "04_computer-vision-1-cnns/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures/04_computer-vision-1-cnns
         files: 1
         entries:
           - name: "Session4_E1394_DL_preLecture.pdf"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/04_computer-vision-1-cnns/Session4_E1394_DL_preLecture.pdf
+            view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/04_computer-vision-1-cnns/Session4_E1394_DL_preLecture.pdf
       - name: "05_computer-vision-2-modern-cnns/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures/05_computer-vision-2-modern-cnns
         files: 1
         entries:
           - name: "Session5_E1394_DL_Lecture.pdf"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/05_computer-vision-2-modern-cnns/Session5_E1394_DL_Lecture.pdf
+            view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/05_computer-vision-2-modern-cnns/Session5_E1394_DL_Lecture.pdf
       - name: "06_sequence-methods-and-time-series/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures/06_sequence-methods-and-time-series
         files: 2
         entries:
           - name: "Session6_E1394_DL_Lecture.pdf"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_Lecture.pdf
+            view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_Lecture.pdf
           - name: "Session6_E1394_DL_preLecture.pdf"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_preLecture.pdf
+            view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_preLecture.pdf
   - name: "readings"
     files: 12
     entries:

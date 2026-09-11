@@ -24,9 +24,11 @@ reading_list: |2
   *This is a public repository, so copyrighted readings are cited rather than redistributed.*
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/01_deep-learning-in-public-policy/Session1_E1394_DL_preLecture.pdf
+      view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/01_deep-learning-in-public-policy/Session1_E1394_DL_preLecture.pdf
       name: "Session1_E1394_DL_preLecture.pdf"
       section: "lecture"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/01_deep-learning-in-public-policy/Session1_demo_deck.html
+      view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/01_deep-learning-in-public-policy/Session1_demo_deck.html
       name: "Session1_demo_deck.html"
       section: "lecture"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures/01_deep-learning-in-public-policy/Session1_demo_deck_files

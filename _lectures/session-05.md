@@ -25,6 +25,7 @@ reading_list: |2
   *This is a public repository, so copyrighted readings are cited rather than redistributed.*
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/05_computer-vision-2-modern-cnns/Session5_E1394_DL_Lecture.pdf
+      view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/05_computer-vision-2-modern-cnns/Session5_E1394_DL_Lecture.pdf
       name: "Session5_E1394_DL_Lecture.pdf"
       section: "lecture"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/05_computer-vision-2-modern-cnns/1512.02325v5.pdf
