@@ -12,7 +12,7 @@ repo_name: "assignment-90-e2ee096fb-public-<your-handle>"
 repo_name_is_shape: true
 due_event:
     type: due
-    date: 2026-09-17T03:50:00
+    date: 2026-09-17T03:54:00
     description: "Assignment 90 E2Ee096Fb Public"
     subtitle: "e2e assignment-90-e2ee096fb-public"
     submit_shape: "github-public"
