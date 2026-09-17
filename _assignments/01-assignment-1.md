@@ -6,15 +6,19 @@ type: assignment
 date: 2026-08-18T14:00:00
 title: "Assignment 1"
 subtitle: "Linear regression from scratch"
+submit_shape: "assignment-repo-private"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-1-"
 repo_name: "assignment-1-<your-handle>"
+repo_name_is_shape: true
 due_event:
     type: due
     date: 2026-09-08T23:59:00
     description: "Assignment 1"
     subtitle: "Linear regression from scratch"
+    submit_shape: "assignment-repo-private"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-1-"
     repo_name: "assignment-1-<your-handle>"
+    repo_name_is_shape: true
 ---
 {% raw %}
 Implement ordinary least squares yourself in `starter.py`, standard library only - fill in
