@@ -6,15 +6,20 @@ type: assignment
 date: 2026-09-15T14:00:00
 title: "Assignment 3 Project"
 subtitle: "Group project"
+submit_shape: "assignment-repo-private"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-3-project-"
 repo_name: "assignment-3-project-<your-team>"
+repo_name_is_shape: true
+late_rule: "10% per day, up to 7 days"
 due_event:
     type: due
     date: 2026-10-23T23:59:00
     description: "Assignment 3 Project"
     subtitle: "Group project"
+    submit_shape: "assignment-repo-private"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-3-project-"
     repo_name: "assignment-3-project-<your-team>"
+    repo_name_is_shape: true
 ---
 {% raw %}
 **Weight:** 25% of the final mark

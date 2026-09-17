@@ -3,26 +3,26 @@
 # rewrites this whole collection on every run. Edit the source instead: the cohort's
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: assignment
-date: 2026-09-17T04:35:00
-title: "Assignment 6"
-subtitle: "Referee reports"
+date: 2026-09-17T11:36:00
+title: "Assignment 90 E2E0745F1 Shared"
+subtitle: "e2e assignment-90-e2e0745f1-shared"
 submit_shape: "shared-dropbox-repo"
 submit_path: "<your-handle>/"
-repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-6-submissions"
-repo_name: "assignment-6-submissions"
+repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-90-e2e0745f1-shared-submissions"
+repo_name: "assignment-90-e2e0745f1-shared-submissions"
 late_rule: "10% per day, up to 7 days"
 due_event:
     type: due
-    date: 2026-09-20T23:59:00
-    description: "Assignment 6"
-    subtitle: "Referee reports"
+    date: 2026-09-17T12:01:00
+    description: "Assignment 90 E2E0745F1 Shared"
+    subtitle: "e2e assignment-90-e2e0745f1-shared"
     submit_shape: "shared-dropbox-repo"
     submit_path: "<your-handle>/"
-    repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-6-submissions"
-    repo_name: "assignment-6-submissions"
+    repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-90-e2e0745f1-shared-submissions"
+    repo_name: "assignment-90-e2e0745f1-shared-submissions"
 ---
 {% raw %}
-**Points:** __ · **Due:** see the course schedule · **Late work:** 10% per day, up to 7 days
+**Points:** __
 
 ## Task
 
@@ -30,7 +30,7 @@ _Write the assignment here (dsl-stub: replace this whole file)._
 
 ## What to submit
 
-Commit the notebook with its outputs saved, after **Restart kernel and run all**. We read it as it stands, and we run it the same way.
+Commit your `.py` files; we run them from the repository root.
 
 _Say which files you expect back, and in what shape._
 {% endraw %}
