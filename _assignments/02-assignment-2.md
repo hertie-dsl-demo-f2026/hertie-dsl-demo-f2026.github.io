@@ -6,21 +6,15 @@ type: assignment
 date: 2026-09-01T14:00:00
 title: "Assignment 2"
 subtitle: "Classification and evaluation"
-submit_shape: "assignment-repo-private"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-2-"
 repo_name: "assignment-2-<your-handle>"
-repo_name_is_shape: true
-late_rule: "10% per day, up to 7 days"
-max_points: "25"
 due_event:
     type: due
     date: 2026-09-29T23:59:00
     description: "Assignment 2"
     subtitle: "Classification and evaluation"
-    submit_shape: "assignment-repo-private"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-2-"
     repo_name: "assignment-2-<your-handle>"
-    repo_name_is_shape: true
 ---
 {% raw %}
 This assignment builds a logistic regression classifier and its evaluation machinery from
