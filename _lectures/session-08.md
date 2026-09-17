@@ -7,8 +7,23 @@ date: 2026-09-22T10:00:00
 title: "Session 8"
 subtitle: "Natural language processing (2): Encoder-decoder architecture and attention"
 description: "The attention mechanism and the transformer, read through the papers that introduced them."
-unreleased: true
-readings_pending: true
-links: []
+reading_list: |2
+  ### Session 8 readings
+
+  #### Required Readings
+
+  - Vaswani et al. (2017), "Attention Is All You Need". doi:10.48550/arXiv.1706.03762
+  - Devlin et al. (2019), "BERT: Pre-training of Deep Bidirectional Transformers".
+  - Dosovitskiy et al. (2021), "An Image is Worth 16x16 Words". All three PDFs below.
+links:
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/08_nlp-2-encoder-decoder-and-attention/Alexey%20Dosovitskiy%2C%20Lucas%20Beyer%2C%20Alexander%20Kolesnikov%2C%20Dirk%20Weissenborn%20-%20An%20Image%20is%20Worth%2016x16%20Words%20Transformers%20for%20Image%20Recognition%20at%20Scale.pdf
+      name: "Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn - An Image is Worth 16x16 Words Transformers for Image Recognition at Scale.pdf"
+      section: "reading"
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/08_nlp-2-encoder-decoder-and-attention/Ashish%20Vaswani%2C%20Noam%20Shazeer%2C%20Niki%20Parmar%2C%20Jakob%20Uszkoreit%2C%20Llion%20Jones%2C%20Aidan%20N.%20Gomez%2C%20Lukasz%20Kaiser%2C%20Illia%20Polosukhin%20-%20Attention%20Is%20All%20You%20Need.pdf
+      name: "Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin - Attention Is All You Need.pdf"
+      section: "reading"
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/08_nlp-2-encoder-decoder-and-attention/Jacob%20Devlin%2C%20Ming-Wei%20Chang%2C%20Kenton%20Lee%2C%20Kristina%20Toutanova%20-%20BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf
+      name: "Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova - BERT Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf"
+      section: "reading"
 ---
-_**Materials for session 8 are not yet released** - they will appear in [`materials/lectures/08_nlp-2-encoder-decoder-and-attention`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures), [`materials/readings/08_nlp-2-encoder-decoder-and-attention`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/readings) when they are._
+
