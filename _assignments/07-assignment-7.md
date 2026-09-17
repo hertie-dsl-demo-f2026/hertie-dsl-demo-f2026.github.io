@@ -6,17 +6,17 @@ type: assignment
 date: 2026-09-17T04:35:00
 title: "Assignment 7"
 subtitle: "Moodle essay"
-submit_shape: "external"
-submit_url: "https://moodle.hertie-school.org/mod/assign/view.php?id=424242"
-submit_host: "moodle.hertie-school.org"
+repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-7-"
+repo_name: "assignment-7-<your-handle>"
+submit_external: true
 due_event:
     type: due
     date: 2026-09-20T23:59:00
     description: "Assignment 7"
     subtitle: "Moodle essay"
-    submit_shape: "external"
-    submit_url: "https://moodle.hertie-school.org/mod/assign/view.php?id=424242"
-    submit_host: "moodle.hertie-school.org"
+    repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-7-"
+    repo_name: "assignment-7-<your-handle>"
+    submit_external: true
 ---
 {% raw %}
 **Points:** __ · **Due:** see the course schedule · **Late work:** 10% per day, up to 7 days
