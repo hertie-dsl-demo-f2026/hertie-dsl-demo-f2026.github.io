@@ -12,7 +12,7 @@ repo_name: "assignment-90-e2e6e303e-student-choice-<your-handle>"
 repo_name_is_shape: true
 due_event:
     type: due
-    date: 2026-09-17T04:38:00
+    date: 2026-09-17T04:42:00
     description: "Assignment 90 E2E6E303E Student Choice"
     subtitle: "e2e assignment-90-e2e6e303e-student-choice"
     submit_shape: "github-student-choice"
