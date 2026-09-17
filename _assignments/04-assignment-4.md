@@ -6,7 +6,7 @@ type: assignment
 date: 2026-09-17T04:35:00
 title: "Assignment 4"
 subtitle: "Hackathon showcase"
-submit_shape: "github-public"
+submit_shape: "assignment-repo-public"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-4-"
 repo_name: "assignment-4-<your-handle>"
 repo_name_is_shape: true
@@ -15,7 +15,7 @@ due_event:
     date: 2026-09-20T23:59:00
     description: "Assignment 4"
     subtitle: "Hackathon showcase"
-    submit_shape: "github-public"
+    submit_shape: "assignment-repo-public"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-4-"
     repo_name: "assignment-4-<your-handle>"
     repo_name_is_shape: true

@@ -6,7 +6,7 @@ type: assignment
 date: 2026-09-17T04:35:00
 title: "Assignment 6"
 subtitle: "Referee reports"
-submit_shape: "shared"
+submit_shape: "shared-dropbox-repo"
 submit_path: "<your-handle>/"
 repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-6-submissions"
 repo_name: "assignment-6-submissions"
@@ -15,7 +15,7 @@ due_event:
     date: 2026-09-20T23:59:00
     description: "Assignment 6"
     subtitle: "Referee reports"
-    submit_shape: "shared"
+    submit_shape: "shared-dropbox-repo"
     submit_path: "<your-handle>/"
     repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-6-submissions"
     repo_name: "assignment-6-submissions"

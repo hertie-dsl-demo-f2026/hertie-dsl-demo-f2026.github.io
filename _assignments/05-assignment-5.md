@@ -6,7 +6,7 @@ type: assignment
 date: 2026-09-17T04:35:00
 title: "Assignment 5"
 subtitle: "Portfolio piece"
-submit_shape: "github-student-choice"
+submit_shape: "assignment-repo-student-choice"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-5-"
 repo_name: "assignment-5-<your-handle>"
 repo_name_is_shape: true
@@ -15,7 +15,7 @@ due_event:
     date: 2026-09-20T23:59:00
     description: "Assignment 5"
     subtitle: "Portfolio piece"
-    submit_shape: "github-student-choice"
+    submit_shape: "assignment-repo-student-choice"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-5-"
     repo_name: "assignment-5-<your-handle>"
     repo_name_is_shape: true
