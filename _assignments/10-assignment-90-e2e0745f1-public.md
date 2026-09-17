@@ -13,7 +13,7 @@ repo_name_is_shape: true
 late_rule: "10% per day, up to 7 days"
 due_event:
     type: due
-    date: 2026-09-17T12:00:00
+    date: 2026-09-17T12:05:00
     description: "Assignment 90 E2E0745F1 Public"
     subtitle: "e2e assignment-90-e2e0745f1-public"
     submit_shape: "assignment-repo-public"
