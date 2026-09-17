@@ -11,7 +11,7 @@ submit_path: "<your-handle>/"
 repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-6-submissions"
 repo_name: "assignment-6-submissions"
 cutoff_sentence: "What is on main at the grading cutoff is what is marked."
-late_rule: "10% per day, up to 7 days"
+late_rule: "10% per day, up to 10 days"
 shape_note: "NB: everyone in the cohort can read the whole repo, so commit nothing you would not show the class."
 due_event:
     type: due
