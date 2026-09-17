@@ -19,7 +19,7 @@ due_event:
     submit_host: "moodle.hertie-school.org"
 ---
 {% raw %}
-**Points:** __ · **Due:** see the course schedule · **Late work:** 10% per day, up to 7 days
+**Points:** __
 
 ## Task
 

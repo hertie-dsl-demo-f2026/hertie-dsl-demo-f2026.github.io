@@ -22,7 +22,7 @@ due_event:
     repo_name_is_shape: true
 ---
 {% raw %}
-**Points:** __ · **Due:** see the course schedule · **Late work:** 10% per day, up to 7 days
+**Points:** __
 
 ## Task
 
