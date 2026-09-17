@@ -6,15 +6,22 @@ type: assignment
 date: 2026-09-17T04:35:00
 title: "Assignment 6"
 subtitle: "Referee reports"
-repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-6-"
-repo_name: "assignment-6-<your-handle>"
+submit_shape: "shared-dropbox-repo"
+submit_path: "<your-handle>/"
+repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-6-submissions"
+repo_name: "assignment-6-submissions"
+cutoff_sentence: "What is on main at the grading cutoff is what is marked."
+late_rule: "10% per day, up to 7 days"
+shape_note: "NB: everyone in the cohort can read the whole repo, so commit nothing you would not show the class."
 due_event:
     type: due
     date: 2026-09-20T23:59:00
     description: "Assignment 6"
     subtitle: "Referee reports"
-    repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-6-"
-    repo_name: "assignment-6-<your-handle>"
+    submit_shape: "shared-dropbox-repo"
+    submit_path: "<your-handle>/"
+    repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-6-submissions"
+    repo_name: "assignment-6-submissions"
 ---
 {% raw %}
 This assignment puts you on the other side of the review process: instead of building a

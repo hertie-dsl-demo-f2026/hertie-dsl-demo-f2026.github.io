@@ -6,15 +6,23 @@ type: assignment
 date: 2026-09-17T04:35:00
 title: "Assignment 4"
 subtitle: "Hackathon showcase"
+submit_shape: "assignment-repo-public"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-4-"
 repo_name: "assignment-4-<your-handle>"
+repo_name_is_shape: true
+cutoff_sentence: "What is on main at the grading cutoff is what is marked."
+late_rule: "10% per day, up to 7 days"
+max_points: "100"
+shape_note: "NB: this repo is public, anyone on the internet can read it. Push to main as usual, but commit nothing you would not publish and no data you were told to keep private."
 due_event:
     type: due
     date: 2026-09-20T23:59:00
     description: "Assignment 4"
     subtitle: "Hackathon showcase"
+    submit_shape: "assignment-repo-public"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-4-"
     repo_name: "assignment-4-<your-handle>"
+    repo_name_is_shape: true
 ---
 {% raw %}
 This is a sprint, not a term project: in a short, compressed window you will pick a small

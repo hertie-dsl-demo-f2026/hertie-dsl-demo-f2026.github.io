@@ -6,15 +6,22 @@ type: assignment
 date: 2026-09-17T04:35:00
 title: "Assignment 5"
 subtitle: "Portfolio piece"
+submit_shape: "assignment-repo-student-choice"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-5-"
 repo_name: "assignment-5-<your-handle>"
+repo_name_is_shape: true
+cutoff_sentence: "What is on main at the grading cutoff is what is marked."
+late_rule: "10% per day, up to 7 days"
+shape_note: "NB: this repo is private-by-default; you are its admin - after the grading cutoff you may make it public from Settings > Danger zone if you want it in your portfolio."
 due_event:
     type: due
     date: 2026-09-20T23:59:00
     description: "Assignment 5"
     subtitle: "Portfolio piece"
+    submit_shape: "assignment-repo-student-choice"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-5-"
     repo_name: "assignment-5-<your-handle>"
+    repo_name_is_shape: true
 ---
 {% raw %}
 This assignment is a chance to produce something you would be happy to point a future
