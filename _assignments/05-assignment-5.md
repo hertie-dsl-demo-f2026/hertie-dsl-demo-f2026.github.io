@@ -16,7 +16,7 @@ shape_note: "NB: this repo is private-by-default; you are its admin - after the 
 due_event:
     type: due
     date: 2026-09-20T23:59:00
-    description: "Assignment 5"
+    title: "Assignment 5"
     subtitle: "Portfolio piece"
     submit_shape: "assignment-repo-student-choice"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-5-"

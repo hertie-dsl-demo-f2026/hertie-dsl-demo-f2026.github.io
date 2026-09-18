@@ -17,7 +17,7 @@ shape_note: "NB: this repo is public, anyone on the internet can read it. Push t
 due_event:
     type: due
     date: 2026-09-20T23:59:00
-    description: "Assignment 4"
+    title: "Assignment 4"
     subtitle: "Hackathon showcase"
     submit_shape: "assignment-repo-public"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-4-"

@@ -6,7 +6,7 @@ type: lecture
 date: 2026-09-29T10:00:00
 title: "Session 9"
 subtitle: "Further topics in deep learning"
-description: "Uncertainty quantification, generative models, and the state of the research frontier."
+details: "Uncertainty quantification, generative models, and the state of the research frontier."
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/09_further-topics/Gawlikowski.pdf
       name: "Gawlikowski.pdf"

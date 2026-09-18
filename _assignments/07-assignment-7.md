@@ -13,7 +13,7 @@ max_points: "100"
 due_event:
     type: due
     date: 2026-09-20T23:59:00
-    description: "Assignment 7"
+    title: "Assignment 7"
     subtitle: "Moodle essay"
     submit_shape: "external"
     submit_url: "https://moodle.hertie-school.org/mod/assign/view.php?id=424242"

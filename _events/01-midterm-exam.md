@@ -4,6 +4,5 @@
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: exam
 date: 2026-09-22T10:00:00
-description: "Midterm Exam"
+title: "Midterm Exam"
 ---
-Details to be confirmed.

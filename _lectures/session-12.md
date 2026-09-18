@@ -6,7 +6,7 @@ type: lecture
 date: 2026-10-20T10:00:00
 title: "Session 12"
 subtitle: "Tutorial presentations"
-description: "Students present their tutorial topic to the group."
+details: "Students present their tutorial topic to the group."
 unreleased: true
 links: []
 ---

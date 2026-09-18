@@ -4,5 +4,5 @@
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: special_event
 date: 2026-09-22T16:00:00
-description: "Guest lecture: deep learning at the Federal Statistical Office"
+title: "Guest lecture: deep learning at the Federal Statistical Office"
 ---

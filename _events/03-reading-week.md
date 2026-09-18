@@ -4,5 +4,5 @@
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: special_event
 date: 2026-10-06T09:00:00
-description: "Reading week - no class"
+title: "Reading week - no class"
 ---

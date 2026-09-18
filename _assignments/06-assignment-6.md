@@ -16,7 +16,7 @@ shape_note: "NB: everyone in the cohort can read the whole repo, so commit nothi
 due_event:
     type: due
     date: 2026-09-20T23:59:00
-    description: "Assignment 6"
+    title: "Assignment 6"
     subtitle: "Referee reports"
     submit_shape: "shared-dropbox-repo"
     submit_path: "<your-handle>/"

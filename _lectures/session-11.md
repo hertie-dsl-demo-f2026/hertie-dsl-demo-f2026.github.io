@@ -6,7 +6,7 @@ type: lecture
 date: 2026-10-13T10:00:00
 title: "Session 11"
 subtitle: "Deep learning in practice"
-description: "Putting a model into a real workflow: compute, reproducibility and maintenance."
+details: "Putting a model into a real workflow: compute, reproducibility and maintenance."
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/11_deep-learning-in-practice/midterm-guide.pdf
       name: "midterm-guide.pdf"

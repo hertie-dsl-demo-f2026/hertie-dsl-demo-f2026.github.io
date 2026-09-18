@@ -17,7 +17,7 @@ shape_note: "NB: this repo is private - only you and the teaching team can read 
 due_event:
     type: due
     date: 2026-10-23T23:59:00
-    description: "Assignment 3 Project"
+    title: "Assignment 3 Project"
     subtitle: "Group project"
     submit_shape: "assignment-repo-private"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-3-project-"

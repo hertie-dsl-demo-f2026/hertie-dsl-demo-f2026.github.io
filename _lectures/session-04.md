@@ -6,7 +6,7 @@ type: lecture
 date: 2026-08-25T10:00:00
 title: "Session 4"
 subtitle: "Computer vision (1): Convolutional neural networks"
-description: "Convolution, pooling and parameter sharing, and why they suit images."
+details: "Convolution, pooling and parameter sharing, and why they suit images."
 reading_list: |2
   ### Session 4 readings
 
