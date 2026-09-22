@@ -49,7 +49,7 @@ sections:
           - name: "Lab_session_6_&_7.ipynb"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/06_sequence-methods-and-time-series/Lab_session_6_%26_7.ipynb
   - name: "lectures"
-    files: 11
+    files: 13
     entries:
       - name: "01_deep-learning-in-public-policy/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures/01_deep-learning-in-public-policy
@@ -114,6 +114,16 @@ sections:
           - name: "Session7_E1394_DL_preLecture.pdf"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/07_natural-language-processing-1/Session7_E1394_DL_preLecture.pdf
             view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/07_natural-language-processing-1/Session7_E1394_DL_preLecture.pdf
+      - name: "08_nlp-2-encoder-decoder-and-attention/"
+        url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures/08_nlp-2-encoder-decoder-and-attention
+        files: 2
+        entries:
+          - name: "Session8_E1394_DL SECOND SESSION.pdf"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL%20SECOND%20SESSION.pdf
+            view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL%20SECOND%20SESSION.pdf
+          - name: "Session8_E1394_DL.pdf"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL.pdf
+            view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL.pdf
   - name: "readings"
     files: 16
     entries:
