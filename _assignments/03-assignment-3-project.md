@@ -14,6 +14,10 @@ cutoff_sentence: "What is on main at the grading cutoff is what is marked."
 late_rule: "10% per day, up to 10 days"
 max_points: "50"
 shape_note: "NB: this repo is private - only you and the teaching team can read it."
+team_join_url: "https://github.com/hertie-dsl-demo-f2026/welcome/issues/new/choose"
+team_join_cap: "3"
+team_join_closes: "2026-10-26"
+team_list_url: "https://github.com/hertie-dsl-demo-f2026/welcome/issues/6"
 due_event:
     type: due
     date: 2026-10-23T23:59:00
