@@ -19,21 +19,6 @@ team_join_cap: "3"
 team_join_closes: "26th Oct"
 team_salt: "hertie-dsl-demo-f2026"
 teams:
-  - name: "team-alpha"
-    members: 1
-    cap: 3
-    members_sha256: ["366f7a3d896f8077b6337496bf488799c160ff0d73255dc5fbcae92347bf1d66"]
-    repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-3-project-team-alpha"
-  - name: "team-beta"
-    members: 2
-    cap: 3
-    members_sha256: ["44d541671059edc8979c276901b6efca79fbde1ad8e2b2edffccd48813f0a619", "a18db8b8a23d2719f495aaed921e61a520a9a97a63fcc64b02dd48690c4401c5"]
-    repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-3-project-team-beta"
-  - name: "team-gamma"
-    members: 3
-    cap: 3
-    members_sha256: ["206f0428c54860e3f8ae03d5d6e60806f3432ed00a6c02821e342aa04b56b8b5", "c4b4e14cda8ff2220fb62780a1bcee729dcfe0997e2ef9a357989239e62b69b8", "e3bf1ccc44f286d615e322441f6231923ef9ac74754d038e0a8b8fedd53418f7"]
-    repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-3-project-team-gamma"
   - name: "team-henry"
     members: 1
     cap: 3
