@@ -20,9 +20,9 @@ team_join_closes: "26th Oct"
 team_salt: "hertie-dsl-demo-f2026"
 teams:
   - name: "team-alpha"
-    members: 1
+    members: 2
     cap: 3
-    members_sha256: ["366f7a3d896f8077b6337496bf488799c160ff0d73255dc5fbcae92347bf1d66"]
+    members_sha256: ["366f7a3d896f8077b6337496bf488799c160ff0d73255dc5fbcae92347bf1d66", "9c485c533ec9dfa703e56b41491adb26f1d11bdcac8c15bdf87d8d9701c8a4bb"]
     repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-3-project-team-alpha"
   - name: "team-beta"
     members: 2
@@ -34,11 +34,6 @@ teams:
     cap: 3
     members_sha256: ["206f0428c54860e3f8ae03d5d6e60806f3432ed00a6c02821e342aa04b56b8b5", "c4b4e14cda8ff2220fb62780a1bcee729dcfe0997e2ef9a357989239e62b69b8", "e3bf1ccc44f286d615e322441f6231923ef9ac74754d038e0a8b8fedd53418f7"]
     repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-3-project-team-gamma"
-  - name: "team-zeta"
-    members: 1
-    cap: 3
-    members_sha256: ["9c485c533ec9dfa703e56b41491adb26f1d11bdcac8c15bdf87d8d9701c8a4bb"]
-    repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-3-project-team-zeta"
 due_event:
     type: due
     date: 2026-10-23T23:59:00
