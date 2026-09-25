@@ -7,5 +7,5 @@ type: special_event
 date: 2027-01-12T09:00:00
 hide_time: true
 title: "Semester archived"
-details: "This cohort is archived on 2027-01-12: every repository in it becomes read-only. You keep read access, so you can still fork or clone anything you want to keep working on into your own account."
+details: "This semester is archived on 2027-01-12: every repository in it becomes read-only. You keep read access, so you can still fork or clone anything you want to keep working on into your own account."
 ---

@@ -12,7 +12,7 @@ repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignme
 repo_name: "assignment-5-<your-handle>"
 repo_name_is_shape: true
 cutoff_sentence: "What is on main at the late cutoff is what is marked."
-late_rule: "10% per day, up to 10 days"
+late_rule: "10% per day, up to 1 days"
 shape_note: "NB: this repo is private-by-default; you are its admin - after the late cutoff you may make it public from Settings > Danger zone if you want it in your portfolio."
 due_event:
     kind: due
