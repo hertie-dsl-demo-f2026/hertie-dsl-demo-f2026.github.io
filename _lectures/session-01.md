@@ -3,11 +3,12 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 1
 date: 2026-08-04T10:00:00
-title: "Session 1"
+title: "Lecture 1"
 subtitle: "Deep learning in public policy"
 details: "What deep learning is, where it already sits in public-sector decision making, and what this course will and will not claim for it."
+tabs: [lecture, readings]
 reading_list: |2
   ### Session 1 readings
 

@@ -3,11 +3,12 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 9
 date: 2026-09-29T10:00:00
-title: "Session 9"
+title: "Lecture 9"
 subtitle: "Further topics in deep learning"
 details: "Uncertainty quantification, generative models, and the state of the research frontier."
+tabs: [lecture, readings]
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/09_further-topics/Gawlikowski.pdf
       name: "Gawlikowski.pdf"

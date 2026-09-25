@@ -3,11 +3,12 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 2
 date: 2026-08-11T10:00:00
-title: "Session 2"
+title: "Lecture 2"
 subtitle: "Deep neural networks (1)"
 details: "Perceptrons, activation functions and the forward pass; why depth buys representational power."
+tabs: [lecture, readings]
 reading_list: |2
   ### Session 2 readings
 

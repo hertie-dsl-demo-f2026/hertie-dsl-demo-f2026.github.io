@@ -3,7 +3,6 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: assignment
-type: assignment
 date: 2026-09-15T14:00:00
 title: "Assignment 3 Project"
 subtitle: "Group project"
@@ -27,7 +26,6 @@ teams:
     repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-3-project-team-latency"
 due_event:
     kind: due
-    type: due
     date: 2026-10-23T23:59:00
     title: "Assignment 3 Project"
     subtitle: "Group project"

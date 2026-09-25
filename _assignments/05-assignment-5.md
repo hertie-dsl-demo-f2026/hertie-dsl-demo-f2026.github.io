@@ -3,7 +3,6 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: assignment
-type: assignment
 date: 2026-09-17T04:35:00
 title: "Assignment 5"
 subtitle: "Portfolio piece"
@@ -16,7 +15,6 @@ late_rule: "10% per day, up to 1 days"
 shape_note: "NB: this repo is private-by-default; you are its admin - after the late cutoff you may make it public from Settings > Danger zone if you want it in your portfolio."
 due_event:
     kind: due
-    type: due
     date: 2026-09-20T23:59:00
     title: "Assignment 5"
     subtitle: "Portfolio piece"

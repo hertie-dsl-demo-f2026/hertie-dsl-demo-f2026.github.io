@@ -3,12 +3,13 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 12
 date: 2026-10-20T10:00:00
-title: "Session 12"
+title: "Lecture 12"
 subtitle: "Tutorial presentations"
 details: "Students present their tutorial topic to the group."
+tabs: [lecture]
 unreleased: true
 links: []
 ---
-_**Materials for session 12 are not yet released**._
+_**Materials for lecture 12 are not yet released**._

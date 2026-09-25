@@ -3,11 +3,12 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 6
 date: 2026-09-08T10:00:00
-title: "Session 6"
+title: "Lecture 6"
 subtitle: "Sequence methods and time-series analysis"
 details: "Recurrent architectures and their limits; where classical time-series methods remain the better tool."
+tabs: [lecture]
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_Lecture.pdf
       view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_Lecture.pdf

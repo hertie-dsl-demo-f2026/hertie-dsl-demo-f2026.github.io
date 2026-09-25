@@ -3,7 +3,6 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: assignment
-type: assignment
 date: 2026-09-17T04:35:00
 title: "Assignment 7"
 subtitle: "Moodle essay"
@@ -13,7 +12,6 @@ submit_host: "moodle.hertie-school.org"
 max_points: "100"
 due_event:
     kind: due
-    type: due
     date: 2026-09-20T23:59:00
     title: "Assignment 7"
     subtitle: "Moodle essay"

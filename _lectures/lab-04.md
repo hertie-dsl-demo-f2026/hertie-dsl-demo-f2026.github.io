@@ -3,9 +3,10 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
-type: lab
+number: 4
 date: 2026-08-27T14:00:00
 title: "Lab 4"
+tabs: [lab]
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/04_computer-vision-1-cnns/Lab_Session_4.ipynb
       name: "Lab_Session_4.ipynb"

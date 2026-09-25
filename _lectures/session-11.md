@@ -3,11 +3,12 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 11
 date: 2026-10-13T10:00:00
-title: "Session 11"
+title: "Lecture 11"
 subtitle: "Deep learning in practice"
 details: "Putting a model into a real workflow: compute, reproducibility and maintenance."
+tabs: [lecture, readings]
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/11_deep-learning-in-practice/midterm-guide.pdf
       name: "midterm-guide.pdf"

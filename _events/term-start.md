@@ -3,7 +3,6 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: term_date
-type: term_date
 date: 2026-08-04T09:00:00
 hide_time: true
 title: "Semester starts"

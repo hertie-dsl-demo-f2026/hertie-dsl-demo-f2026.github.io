@@ -3,7 +3,6 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: special_event
-type: special_event
 date: 2027-01-12T09:00:00
 hide_time: true
 title: "Semester archived"

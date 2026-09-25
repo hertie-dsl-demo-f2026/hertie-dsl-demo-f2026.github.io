@@ -3,9 +3,10 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
-type: lab
+number: 9
 date: 2026-10-01T14:00:00
 title: "Lab 9"
+tabs: [lab]
 unreleased: true
 links: []
 ---

@@ -3,7 +3,6 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: special_event
-type: special_event
 date: 2026-09-22T16:00:00
 title: "Guest lecture: deep learning at the Federal Statistical Office"
 ---

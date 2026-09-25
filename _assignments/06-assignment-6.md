@@ -3,7 +3,6 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: assignment
-type: assignment
 date: 2026-09-17T04:35:00
 title: "Assignment 6"
 subtitle: "Referee reports"
@@ -16,7 +15,6 @@ late_rule: "10% per day, up to 1 days"
 shape_note: "NB: everyone in the semester can read the whole repo, so commit nothing you would not show the class."
 due_event:
     kind: due
-    type: due
     date: 2026-09-20T23:59:00
     title: "Assignment 6"
     subtitle: "Referee reports"

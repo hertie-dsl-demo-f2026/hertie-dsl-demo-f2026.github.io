@@ -3,13 +3,14 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 10
 date: 2026-10-06T10:00:00
-title: "Session 10"
+title: "Lecture 10"
 subtitle: "Policy approaches to regulate deep learning"
 details: "Regulation, auditing and the documented harms of large models, with the EU AI Act as the worked case."
+tabs: [lecture, readings]
 unreleased: true
 readings_pending: true
 links: []
 ---
-_**Materials for session 10 are not yet released** - they will appear in [`materials/readings/10_policy-approaches-and-responsible-implementation`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/readings) when they are._
+_**Materials for lecture 10 are not yet released** - they will appear in [`materials/code/dldemo/audit.py`](https://github.com/hertie-dsl-demo-f2026/materials) when they are._

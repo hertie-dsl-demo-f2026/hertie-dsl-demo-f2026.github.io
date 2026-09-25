@@ -3,11 +3,12 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 5
 date: 2026-09-01T10:00:00
-title: "Session 5"
+title: "Lecture 5"
 subtitle: "Computer vision (2): Modern CNNs, implementation and applications"
 details: "Residual connections and modern architectures, with applications to satellite imagery for policy."
+tabs: [lecture, readings]
 reading_list: |2
   ### Session 5 readings
 

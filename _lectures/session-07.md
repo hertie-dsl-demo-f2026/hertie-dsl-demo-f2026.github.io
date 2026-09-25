@@ -3,11 +3,12 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 7
 date: 2026-09-15T10:00:00
-title: "Session 7"
+title: "Lecture 7"
 subtitle: "Natural language processing (1)"
 details: "Text as data: tokenisation, embeddings, and what a language model is actually estimating."
+tabs: [lecture]
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/07_natural-language-processing-1/Session7_E1394_DL_preLecture.pdf
       view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/07_natural-language-processing-1/Session7_E1394_DL_preLecture.pdf

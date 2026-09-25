@@ -3,7 +3,6 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: assignment
-type: assignment
 date: 2026-09-01T14:00:00
 title: "Assignment 2"
 subtitle: "Classification and evaluation"
@@ -17,7 +16,6 @@ max_points: "25"
 shape_note: "NB: this repo is private - only you and the instructors can read it."
 due_event:
     kind: due
-    type: due
     date: 2026-09-29T23:59:00
     title: "Assignment 2"
     subtitle: "Classification and evaluation"
