@@ -7,7 +7,7 @@ number: 1
 date: 2026-08-04T10:00:00
 title: "Lecture 1"
 subtitle: "Deep learning in public policy"
-details: "What deep learning is, where it already sits in public-sector decision making, and what this course will and will not claim for it. (inspection)"
+details: "What deep learning is, where it already sits in public-sector decision making, and what this course will and will not claim for it."
 tabs: [lecture, readings]
 reading_list: |2
   ### Session 1 readings
