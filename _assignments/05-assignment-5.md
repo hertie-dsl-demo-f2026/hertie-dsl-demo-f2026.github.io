@@ -9,10 +9,6 @@ subtitle: "Portfolio piece"
 submit_shape: "assignment-repo-student-choice"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-5-"
 repo_name: "assignment-5-<your-handle>"
-repo_name_is_shape: true
-cutoff_sentence: "What is on main at the late cutoff is what is marked."
-late_rule: "10% per day, up to 1 days"
-shape_note: "NB: this repo is private-by-default; you are its admin - after the late cutoff you may make it public from Settings > Danger zone if you want it in your portfolio."
 due_event:
     kind: due
     date: 2026-09-20T23:59:00
@@ -21,42 +17,5 @@ due_event:
     submit_shape: "assignment-repo-student-choice"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-5-"
     repo_name: "assignment-5-<your-handle>"
-    repo_name_is_shape: true
 ---
-{% raw %}
-This assignment is a chance to produce something you would be happy to point a future
-employer or supervisor at: an independent piece of analysis, done to a standard you set
-for yourself rather than for a grade alone.
 
-## Task
-
-Pick a dataset and a question that genuinely interests you and that you can do properly
-in the time available - depth on a modest question beats a shallow pass over an
-ambitious one. Plan the piece as you would a short technical report: a clear question, a
-defensible method, and a result presented so that someone outside the course can follow
-your reasoning without having sat in the lectures.
-
-Because this repository is yours to publish once it is marked, write and comment your
-code as though someone unfamiliar with the assignment will read it later - which they may
-well do, since one of the freedoms this piece gives you is deciding whether to make it
-public afterwards.
-
-Suggested steps:
-
-- Choose a question you can answer convincingly within the scope of the assignment.
-- Explore the data before committing to a method, and note what you ruled out and why.
-- Build the analysis; restart the kernel and run all cells before each commit.
-- Write a short narrative around the results aimed at a reader outside the course.
-
-## What to submit
-
-Push your notebook and any supporting files to `main`. The repository stays private until
-the grading cutoff, after which it is yours to publish or keep private as you choose.
-
-## Grading
-
-- Analytical depth: a real question, answered with an appropriate method.
-- Clarity: a reader outside the course can follow the reasoning and the result.
-- Reproducibility: the notebook runs cleanly from a fresh checkout.
-- Presentation: the piece reads as something you would be glad to share.
-{% endraw %}

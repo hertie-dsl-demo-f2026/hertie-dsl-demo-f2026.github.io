@@ -11,7 +11,6 @@ details: "Text as data: tokenisation, embeddings, and what a language model is a
 tabs: [lecture]
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/07_natural-language-processing-1/Session7_E1394_DL_preLecture.pdf
-      view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/07_natural-language-processing-1/Session7_E1394_DL_preLecture.pdf
       name: "Session7_E1394_DL_preLecture.pdf"
       section: "lecture"
 ---

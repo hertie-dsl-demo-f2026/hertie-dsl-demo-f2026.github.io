@@ -11,11 +11,9 @@ details: "Recurrent architectures and their limits; where classical time-series 
 tabs: [lecture]
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_Lecture.pdf
-      view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_Lecture.pdf
       name: "Session6_E1394_DL_Lecture.pdf"
       section: "lecture"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_preLecture.pdf
-      view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_preLecture.pdf
       name: "Session6_E1394_DL_preLecture.pdf"
       section: "lecture"
 ---

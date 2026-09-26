@@ -9,7 +9,6 @@ subtitle: "Moodle essay"
 submit_shape: "external"
 submit_url: "https://moodle.hertie-school.org/mod/assign/view.php?id=424242"
 submit_host: "moodle.hertie-school.org"
-max_points: "100"
 due_event:
     kind: due
     date: 2026-09-20T23:59:00
@@ -19,40 +18,4 @@ due_event:
     submit_url: "https://moodle.hertie-school.org/mod/assign/view.php?id=424242"
     submit_host: "moodle.hertie-school.org"
 ---
-{% raw %}
-This assignment is a conventional written essay, marked on the strength of your argument
-rather than on any code.
 
-## Task
-
-Choose one of the debates set for this assignment - the ones covering the course's data
-ethics and methodology sessions - and construct an argument that takes a clear position
-and defends it against the obvious objections, rather than describing both sides and
-declining to choose. An essay that surveys the literature without ever committing to a
-claim is the most common way marks are lost here.
-
-Use evidence deliberately: a claim about a method's limitations should point to a
-specific case or result, not a vague appeal to "the literature". Keep the structure
-simple - an introduction that states your position, a body that builds the case section
-by section, and a conclusion that could not be swapped for another essay's without
-changing the argument beneath it.
-
-Suggested approach:
-
-- Choose your question early and write your position in one sentence before drafting anything.
-- Outline the argument as a sequence of claims, and check each one has evidence behind it.
-- Draft the body before the introduction; write the introduction to match what you
-  actually argued.
-- Read it back for anywhere you hedge instead of arguing, and fix those first.
-
-## What to submit
-
-Upload your essay to Moodle (moodle.hertie-school.org). Nothing is collected from GitHub
-for this assignment; this repository holds the brief and nothing else.
-
-## Grading
-
-- Argument (40%): a clear position, defended against its obvious objections.
-- Evidence (30%): specific, relevant support for each substantive claim.
-- Writing (30%): structure, clarity, and whether the conclusion follows from the body.
-{% endraw %}

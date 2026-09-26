@@ -11,15 +11,16 @@ Its content comes from the semester's `semester-config/` files (`schedule.yml`, 
 | Path | Holds |
 | --- | --- |
 | `_lectures/` | one page per session and lab |
-| `_assignments/` | one page per handed-out assignment |
+| `_assignments/` | each assignment's hand-out and due rows |
 | `_events/` | exams, semester dates, display-only rows |
 | `_data/people.yml` | the instructor cards |
 | `_data/nav.yml` | the nav bar |
-| `_data/materials.yml` | the All Materials index |
-| the tab pages - `assignments.md`, `materials.md`, `profile.md` | the wrappers the tabs point at |
+| `_data/materials.yml` | the syllabus the home page pins |
+| `_data/console.yml` | the banner's link to the student console |
+| the tab pages -  | the wrappers the tabs point at |
 | `_layouts/`, `_includes/`, `_sass/_course.scss` | how every page renders |
 | `.github/workflows/deploy.yml` | the Pages build |
-| `_config.yml` | the course identity keys, the pinned theme, and the `collections:`/`defaults:` the layouts need |
+| `_config.yml` | the course identity keys, the pinned theme, and the `collections:` the layouts need |
 
 Each collection is CLEARED and rewritten on every sync, so a file you add to one disappears on the next run. The tab pages are rewritten too - they are generated wrappers, so put your own words in `index.md`, or in a page of your own linked from there.
 

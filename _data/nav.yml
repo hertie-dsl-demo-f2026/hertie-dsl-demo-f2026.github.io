@@ -20,15 +20,3 @@ items:
 - url: /readings/
   name: Readings
   icon_class: fas fa-book
-
-- url: /assignments/
-  name: Assignments
-  icon_class: fas fa-user-graduate
-
-- url: /materials/
-  name: All Materials
-  icon_class: fas fa-folder-open
-
-- url: /profile/
-  name: Your Profile
-  icon_class: fas fa-user-cog

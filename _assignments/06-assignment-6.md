@@ -10,9 +10,6 @@ submit_shape: "shared-dropbox-repo"
 submit_path: "<your-handle>/"
 repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-6-submissions"
 repo_name: "assignment-6-submissions"
-cutoff_sentence: "What is on main at the late cutoff is what is marked."
-late_rule: "10% per day, up to 1 days"
-shape_note: "NB: everyone in the semester can read the whole repo, so commit nothing you would not show the class."
 due_event:
     kind: due
     date: 2026-09-20T23:59:00
@@ -23,42 +20,4 @@ due_event:
     repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-6-submissions"
     repo_name: "assignment-6-submissions"
 ---
-{% raw %}
-This assignment puts you on the other side of the review process: instead of building a
-model, you will read someone else's work critically and write the kind of report a
-journal referee would submit.
 
-## Task
-
-You will be given a paper, or a model write-up, to assess. Read it as a referee would:
-not looking for reasons to reject it, but checking whether its claims are supported by
-what it actually did. Pay particular attention to the method-to-claim link - does the
-evaluation the authors ran actually support the conclusion they draw from it, or is there
-a gap a careful reader should flag?
-
-Structure your report the way a real referee report is structured: a short summary of
-what the work claims, a list of substantive concerns (methodology, evaluation, missing
-baselines, overclaiming), and a smaller list of minor points. Be specific; "the
-evaluation is weak" is not useful to anyone, "the baseline in Table 2 is not tuned to the
-same standard as the proposed method" is.
-
-Suggested steps:
-
-- Read the assigned piece twice before writing anything: once for the argument, once for
-  the evidence.
-- List every claim that depends on a specific piece of evidence, and check it.
-- Separate major concerns from minor ones explicitly.
-- Write the summary last, once you know what you actually think.
-
-## What to submit
-
-Push your report, as a PDF named `<your-handle>.pdf`, into your own folder of the shared
-drop box repository. Everyone in the cohort pushes into their own folder of the same
-repository, and your peers can read what you write.
-
-## Grading
-
-- Whether the major concerns raised are substantive and specific.
-- Whether the method-to-claim link is checked carefully rather than asserted.
-- The clarity and structure of the report itself.
-{% endraw %}

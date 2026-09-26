@@ -9,21 +9,8 @@ subtitle: "Group project"
 submit_shape: "assignment-repo-private"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-3-project-"
 repo_name: "assignment-3-project-<your-team>"
-repo_name_is_shape: true
-cutoff_sentence: "What is on main at the late cutoff is what is marked."
-late_rule: "10% per day, up to 3 days"
-max_points: "50"
-shape_note: "NB: this repo is private - only you and the instructors can read it."
 team_join_url: "https://github.com/hertie-dsl-demo-f2026/join/issues/new/choose"
-team_join_cap: "3"
 team_join_closes: "26th Oct"
-team_salt: "hertie-dsl-demo-f2026"
-teams:
-  - name: "team-latency"
-    members: 1
-    cap: 3
-    members_sha256: ["9c485c533ec9dfa703e56b41491adb26f1d11bdcac8c15bdf87d8d9701c8a4bb"]
-    repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-3-project-team-latency"
 due_event:
     kind: due
     date: 2026-10-23T23:59:00
@@ -32,50 +19,5 @@ due_event:
     submit_shape: "assignment-repo-private"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-3-project-"
     repo_name: "assignment-3-project-<your-team>"
-    repo_name_is_shape: true
 ---
-{% raw %}
-Working in your team, you will take a question you can defend, build the smallest model
-that answers it honestly, and write it up so that a reader who was not in the room can
-tell whether to believe you.
 
-## Task
-
-The point of this project is not the highest possible score; a careful, honestly
-evaluated simple model beats a leaky, over-tuned ensemble every time, and the report is
-where you show your reasoning stands up. Agree your question and dataset early, and write
-the question down before you touch the data - a team that decides the question after
-seeing the results has already made the mistake the marking looks for.
-
-Build a baseline first and keep its number in the final report next to your model's.
-Every fitted transformation - scaling, encoding, imputation - has to sit inside your
-train/test split, never fitted on the whole dataset beforehand; this is the single most
-common way an otherwise sound project quietly leaks, and everyone on the team should be
-able to explain why it matters.
-
-To get started:
-
-- Agree the question and dataset as a team in the first week, not the third.
-- Build and report a baseline before tuning anything more elaborate.
-- Fit every transformation inside the split, using a pipeline rather than doing it by hand.
-- Split once, early, and do not return to the test set until the report is written.
-- Draft `REPORT.md` early and keep it updated as the model develops.
-
-## What to submit
-
-This is group work: one submission per team, from your team's own repository. Push
-`REPORT.md`, `src/pipeline.py` (or the R equivalent), `requirements.txt` (or `renv.lock`)
-and `data/README.md` describing where the data came from, to `main`. Do not commit the raw
-data itself.
-
-## Grading
-
-- Framing and data handling: a real question, a metric that matches the decision, and
-  missingness and provenance handled deliberately.
-- Method and evaluation: a defensible split, honest tuning, and comparison against a
-  baseline with an interval.
-- Report and model card: legible to a non-specialist, with limitations stated in specifics
-  rather than in general terms.
-- Reproducibility: runs from a clean checkout with a fixed seed and pinned dependencies;
-  each member's mark carries an individual adjustment based on their contribution.
-{% endraw %}

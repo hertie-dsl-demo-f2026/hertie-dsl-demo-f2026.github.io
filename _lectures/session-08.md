@@ -19,11 +19,9 @@ reading_list: |2
   - Dosovitskiy et al. (2021), "An Image is Worth 16x16 Words". All three PDFs below.
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL%20SECOND%20SESSION.pdf
-      view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL%20SECOND%20SESSION.pdf
       name: "Session8_E1394_DL SECOND SESSION.pdf"
       section: "lecture"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL.pdf
-      view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL.pdf
       name: "Session8_E1394_DL.pdf"
       section: "lecture"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/08_nlp-2-encoder-decoder-and-attention/Alexey%20Dosovitskiy%2C%20Lucas%20Beyer%2C%20Alexander%20Kolesnikov%2C%20Dirk%20Weissenborn%20-%20An%20Image%20is%20Worth%2016x16%20Words%20Transformers%20for%20Image%20Recognition%20at%20Scale.pdf
