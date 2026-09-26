@@ -11,7 +11,7 @@ repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignme
 repo_name: "assignment-90-e2e931eef-student-choice-<your-handle>"
 due_event:
     kind: due
-    date: 2026-09-27T12:03:00
+    date: 2026-09-25T12:42:00
     title: "Assignment 90 E2E931Eef Student Choice"
     subtitle: "E2E student-choice e2e931eef"
     submit_shape: "assignment-repo-student-choice"

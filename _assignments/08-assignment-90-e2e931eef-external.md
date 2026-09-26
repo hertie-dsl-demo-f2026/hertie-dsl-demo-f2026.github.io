@@ -11,7 +11,7 @@ submit_url: "https://example.org/e2e/submit"
 submit_host: "example.org"
 due_event:
     kind: due
-    date: 2026-09-27T12:03:00
+    date: 2026-09-25T12:42:00
     title: "Assignment 90 E2E931Eef External"
     subtitle: "E2E external e2e931eef"
     submit_shape: "external"

@@ -11,7 +11,7 @@ repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignme
 repo_name: "assignment-90-e2e931eef-public-<your-handle>"
 due_event:
     kind: due
-    date: 2026-09-27T12:03:00
+    date: 2026-09-25T12:42:00
     title: "Assignment 90 E2E931Eef Public"
     subtitle: "E2E public e2e931eef"
     submit_shape: "assignment-repo-public"

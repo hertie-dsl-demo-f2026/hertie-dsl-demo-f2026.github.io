@@ -12,7 +12,7 @@ repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-90-e2e931eef-shar
 repo_name: "assignment-90-e2e931eef-shared-submissions"
 due_event:
     kind: due
-    date: 2026-09-27T12:03:00
+    date: 2026-09-25T12:42:00
     title: "Assignment 90 E2E931Eef Shared"
     subtitle: "E2E shared e2e931eef"
     submit_shape: "shared-dropbox-repo"
