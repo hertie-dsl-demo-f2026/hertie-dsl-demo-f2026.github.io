@@ -13,10 +13,6 @@ instructors:
     webpage: "https://www.hertie-school.org/de/research/faculty-and-researchers/profile/person/kaack"
     title: "Assistant Professor of Computer Science and Public Policy"
     role: "instructor"
-  - name: "Inspection TA"
-    profile_pic: ""
-    webpage: ""
-    role: "instructor"
 
 teaching_assistants:
   - name: "Chiara Fusar Bassini"
