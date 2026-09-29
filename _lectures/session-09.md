@@ -10,6 +10,9 @@ subtitle: "Further topics in deep learning"
 details: "Uncertainty quantification, generative models, and the state of the research frontier."
 tabs: [lecture, readings]
 links:
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/code/dldemo/uncertainty.py
+      name: "uncertainty.py"
+      section: "code"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/09_further-topics/Gawlikowski.pdf
       name: "Gawlikowski.pdf"
       section: "reading"

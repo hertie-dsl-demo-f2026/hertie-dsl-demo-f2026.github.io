@@ -13,4 +13,4 @@ unreleased: true
 readings_pending: true
 links: []
 ---
-_**Materials for lecture 10 are not yet released** - they will appear in [`materials/code/dldemo/audit.py`](https://github.com/hertie-dsl-demo-f2026/materials) when they are._
+_**Materials for lecture 10 are not yet released** - they will appear in [`materials/code/dldemo/audit.py`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/code/dldemo) when they are._
