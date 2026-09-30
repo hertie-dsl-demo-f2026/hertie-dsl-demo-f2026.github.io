@@ -20,3 +20,7 @@ items:
 - url: /readings/
   name: Readings
   icon_class: fas fa-book
+
+- url: /drop-ins/
+  name: Drop-ins
+  icon_class: fas fa-folder
