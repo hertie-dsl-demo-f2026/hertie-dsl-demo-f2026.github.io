@@ -24,6 +24,9 @@ links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL.pdf
       name: "Session8_E1394_DL.pdf"
       section: "lecture"
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures/08_nlp-2-encoder-decoder-and-attention/slides
+      name: "slides/ (51 files)"
+      section: "lecture"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/08_nlp-2-encoder-decoder-and-attention/Alexey%20Dosovitskiy%2C%20Lucas%20Beyer%2C%20Alexander%20Kolesnikov%2C%20Dirk%20Weissenborn%20-%20An%20Image%20is%20Worth%2016x16%20Words%20Transformers%20for%20Image%20Recognition%20at%20Scale.pdf
       name: "Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn - An Image is Worth 16x16 Words Transformers for Image Recognition at Scale.pdf"
       section: "reading"
