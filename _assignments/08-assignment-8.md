@@ -5,19 +5,17 @@
 kind: assignment
 date: 2026-09-23T14:00:00
 title: "Assignment 8"
-subtitle: "test"
+subtitle: "Policy brief in LaTeX"
 submit_shape: "assignment-repo-private"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-8-"
-repo_name: "assignment-8-<your-team>"
-team_join_url: "https://github.com/hertie-dsl-demo-f2026/join/issues/new/choose"
-team_join_closes: "30th Sep"
+repo_name: "assignment-8-<your-handle>"
 due_event:
     kind: due
     date: 2026-09-29T23:59:00
     title: "Assignment 8"
-    subtitle: "test"
+    subtitle: "Policy brief in LaTeX"
     submit_shape: "assignment-repo-private"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-8-"
-    repo_name: "assignment-8-<your-team>"
+    repo_name: "assignment-8-<your-handle>"
 ---
 
