@@ -7,7 +7,9 @@ number: 9
 date: 2026-10-01T14:00:00
 title: "Lab 9"
 tabs: [lab]
-unreleased: true
-links: []
+links:
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/09_further-topics/Lab_Session_9_%26_10.ipynb
+      name: "Lab_Session_9_&_10.ipynb"
+      section: "lab"
 ---
-_**Materials for lab 9 are not yet released** - they will appear in [`materials/labs/09_further-topics`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs) when they are._
+
