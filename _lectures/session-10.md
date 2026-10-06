@@ -33,6 +33,9 @@ reading_list: |2
 
   *This is a public repository, so copyrighted readings are cited rather than redistributed.*
 links:
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/code/dldemo/audit.py
+      name: "audit.py"
+      section: "code"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/2101.03989v2.pdf
       name: "2101.03989v2.pdf"
       section: "reading"
