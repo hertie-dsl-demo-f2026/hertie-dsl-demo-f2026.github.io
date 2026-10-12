@@ -69,12 +69,17 @@ collections:
   lectures:
     output: true
   assignments:
-    output: false
+    output: true
   announcements:
     output: false
 
 # managed by the DSL course sync - rewritten on every run
-defaults: []
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
 
 # managed by the DSL course sync - rewritten on every run
 title: "Deep Learning (Demo)"

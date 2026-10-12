@@ -9,6 +9,11 @@ subtitle: "Policy brief in LaTeX"
 submit_shape: "assignment-repo-private"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-8-"
 repo_name: "assignment-8-<your-handle>"
+repo_name_is_shape: true
+cutoff_sentence: "What is on main at the late cutoff is what is marked."
+late_rule: "10% per day, up to 1 days"
+max_points: "30"
+shape_note: "NB: this repo is private - only you and the instructors can read it."
 due_event:
     kind: due
     date: 2026-09-29T23:59:00
@@ -17,5 +22,18 @@ due_event:
     submit_shape: "assignment-repo-private"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2026/repositories?q=assignment-8-"
     repo_name: "assignment-8-<your-handle>"
+    repo_name_is_shape: true
 ---
+{% raw %}
+## Task
 
+_Write the assignment here (dsl-stub: replace this whole file)._
+
+## What to submit
+
+Commit your `.py` files; we run them from the repository root.
+
+Render `starter.qmd` and commit **both** it and the `starter.html` it produces. The rendered document is what we read and mark; the source is what we check it against.
+
+_Say which files you expect back, and in what shape._
+{% endraw %}

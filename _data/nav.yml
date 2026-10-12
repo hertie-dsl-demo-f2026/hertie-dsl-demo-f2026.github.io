@@ -24,3 +24,15 @@ items:
 - url: /drop-ins/
   name: Drop-ins
   icon_class: fas fa-folder
+
+- url: /assignments/
+  name: Assignments
+  icon_class: fas fa-user-graduate
+
+- url: /materials/
+  name: All Materials
+  icon_class: fas fa-folder-open
+
+- url: /profile/
+  name: Your Profile
+  icon_class: fas fa-user-cog
