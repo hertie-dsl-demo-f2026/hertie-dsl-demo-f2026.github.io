@@ -10,6 +10,9 @@ subtitle: "Deep learning in practice"
 details: "Putting a model into a real workflow: compute, reproducibility and maintenance."
 tabs: [lecture, readings]
 links:
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/code/dldemo/serving.py
+      name: "serving.py"
+      section: "code"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/11_deep-learning-in-practice/midterm-guide.pdf
       name: "midterm-guide.pdf"
       section: "reading"

@@ -7,14 +7,16 @@ documents:
     url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/SYLLABUS.md
 sections:
   - name: "code"
-    files: 2
+    files: 3
     entries:
       - name: "dldemo/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/code/dldemo
-        files: 2
+        files: 3
         entries:
           - name: "audit.py"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/code/dldemo/audit.py
+          - name: "serving.py"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/code/dldemo/serving.py
           - name: "uncertainty.py"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/code/dldemo/uncertainty.py
   - name: "labs"
