@@ -5,6 +5,7 @@
 kind: lecture
 number: 8
 date: 2026-09-22T10:00:00
+sort_at: 2026-09-22T10:00:00
 title: "Lecture 8"
 subtitle: "Natural language processing (2): Encoder-decoder architecture and attention"
 details: "The attention mechanism and the transformer, read through the papers that introduced them."

@@ -5,6 +5,7 @@
 kind: lecture
 number: 6
 date: 2026-09-08T10:00:00
+sort_at: 2026-09-08T10:00:00
 title: "Lecture 6"
 subtitle: "Sequence methods and time-series analysis"
 details: "Recurrent architectures and their limits; where classical time-series methods remain the better tool."

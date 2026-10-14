@@ -4,6 +4,7 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: term_date
 date: 2026-08-04T09:00:00
+sort_at: 2026-08-04T09:00:00
 hide_time: true
 title: "Semester starts"
 ---

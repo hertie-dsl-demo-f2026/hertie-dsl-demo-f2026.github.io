@@ -5,6 +5,7 @@
 kind: lecture
 number: 7
 date: 2026-09-15T10:00:00
+sort_at: 2026-09-15T10:00:00
 title: "Lecture 7"
 subtitle: "Natural language processing (1)"
 details: "Text as data: tokenisation, embeddings, and what a language model is actually estimating."

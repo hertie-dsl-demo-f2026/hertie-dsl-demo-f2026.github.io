@@ -4,6 +4,7 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: assignment
 date: 2026-09-15T14:00:00
+sort_at: 2026-09-15T14:00:00
 title: "Assignment 3 Project"
 subtitle: "Group project"
 submit_shape: "assignment-repo-private"
@@ -27,6 +28,7 @@ teams:
 due_event:
     kind: due
     date: 2026-10-23T23:59:00
+    sort_at: 2026-10-23T23:59:00
     title: "Assignment 3 Project"
     subtitle: "Group project"
     submit_shape: "assignment-repo-private"

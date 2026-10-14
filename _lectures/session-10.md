@@ -5,6 +5,7 @@
 kind: lecture
 number: 10
 date: 2026-10-06T10:00:00
+sort_at: 2026-10-06T10:00:00
 title: "Lecture 10"
 subtitle: "Policy approaches to regulate deep learning"
 details: "Regulation, auditing and the documented harms of large models, with the EU AI Act as the worked case."

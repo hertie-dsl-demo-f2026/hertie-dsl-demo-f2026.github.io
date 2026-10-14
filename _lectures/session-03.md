@@ -5,6 +5,7 @@
 kind: lecture
 number: 3
 date: 2026-08-18T10:00:00
+sort_at: 2026-08-18T10:00:00
 title: "Lecture 3"
 subtitle: "Deep neural networks (2)"
 details: "Backpropagation and gradient descent in practice: initialisation, learning rates, and the failure modes of each."

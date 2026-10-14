@@ -5,6 +5,7 @@
 kind: lab
 number: 1
 date: 2026-08-06T14:00:00
+sort_at: 2026-08-06T14:00:00
 title: "Lab 1"
 tabs: [lab]
 links:

@@ -5,6 +5,7 @@
 kind: lecture
 number: 11
 date: 2026-10-13T10:00:00
+sort_at: 2026-10-13T10:00:00
 title: "Lecture 11"
 subtitle: "Deep learning in practice"
 details: "Putting a model into a real workflow: compute, reproducibility and maintenance."

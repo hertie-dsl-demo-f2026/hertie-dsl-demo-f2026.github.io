@@ -5,6 +5,7 @@
 kind: lecture
 number: 9
 date: 2026-09-29T10:00:00
+sort_at: 2026-09-29T10:00:00
 title: "Lecture 9"
 subtitle: "Further topics in deep learning"
 details: "Uncertainty quantification, generative models, and the state of the research frontier."

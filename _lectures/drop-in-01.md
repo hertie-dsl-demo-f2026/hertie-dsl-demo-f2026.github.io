@@ -5,11 +5,12 @@
 kind: drop-in
 number: 1
 date: 2026-10-20T10:00:00
+sort_at: 2026-10-20T10:00:00
 title: "Drop-in 1"
 subtitle: "Tutorial presentations"
 details: "Students present their tutorial topic to the group."
 tabs: [drop-in]
-unreleased: true
+no_materials: true
 links: []
 ---
-_**Materials for drop-in 1 are not yet released**._
+

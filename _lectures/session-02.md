@@ -5,6 +5,7 @@
 kind: lecture
 number: 2
 date: 2026-08-11T10:00:00
+sort_at: 2026-08-11T10:00:00
 title: "Lecture 2"
 subtitle: "Deep neural networks (1)"
 details: "Perceptrons, activation functions and the forward pass; why depth buys representational power."

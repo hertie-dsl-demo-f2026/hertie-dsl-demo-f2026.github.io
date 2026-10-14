@@ -4,5 +4,6 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: exam
 date: 2026-11-10T10:00:00
+sort_at: 2026-11-10T10:00:00
 title: "Final Exam"
 ---

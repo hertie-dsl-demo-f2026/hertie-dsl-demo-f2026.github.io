@@ -5,6 +5,7 @@
 kind: lecture
 number: 4
 date: 2026-08-25T10:00:00
+sort_at: 2026-08-25T10:00:00
 title: "Lecture 4"
 subtitle: "Computer vision (1): Convolutional neural networks"
 details: "Convolution, pooling and parameter sharing, and why they suit images."

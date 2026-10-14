@@ -4,6 +4,7 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: assignment
 date: 2026-08-18T14:00:00
+sort_at: 2026-08-18T14:00:00
 title: "Assignment 1"
 subtitle: "Linear regression from scratch"
 submit_shape: "assignment-repo-private"
@@ -16,6 +17,7 @@ shape_note: "NB: this repo is private - only you and the instructors can read it
 due_event:
     kind: due
     date: 2026-09-08T23:59:00
+    sort_at: 2026-09-08T23:59:00
     title: "Assignment 1"
     subtitle: "Linear regression from scratch"
     submit_shape: "assignment-repo-private"
