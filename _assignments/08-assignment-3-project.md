@@ -15,14 +15,10 @@ cutoff_sentence: "What is on main at the late cutoff is what is marked."
 late_rule: "10% per day, up to 3 days"
 max_points: "50"
 shape_note: "NB: this repo is private - only you and the instructors can read it."
-team_join_url: "https://github.com/hertie-dsl-demo-f2026/join/issues/new/choose"
-team_join_cap: "3"
-team_join_closes: "26th Oct"
 team_salt: "hertie-dsl-demo-f2026"
 teams:
   - name: "team-latency"
     members: 1
-    cap: 3
     members_sha256: ["9c485c533ec9dfa703e56b41491adb26f1d11bdcac8c15bdf87d8d9701c8a4bb"]
     repo_url: "https://github.com/hertie-dsl-demo-f2026/assignment-3-project-team-latency"
 due_event:
