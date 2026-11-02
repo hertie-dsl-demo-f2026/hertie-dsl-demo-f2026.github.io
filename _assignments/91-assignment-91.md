@@ -3,11 +3,10 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: assignment
-date: 2026-11-20T23:59:00
-sort_at: 2026-11-20T23:59:00
+date: 2026-11-02T15:51:00
+sort_at: 2026-11-02T15:51:00
 title: "Assignment 91"
 subtitle: "TMP quiz, due ahead"
-handout_pending: true
 submit_shape: "external"
 max_points: "100"
 due_event:
@@ -18,4 +17,40 @@ due_event:
     subtitle: "TMP quiz, due ahead"
     submit_shape: "external"
 ---
-_**Assignment 91 is not yet released** - the brief appears here when it is._
+{% raw %}
+This assignment is a conventional written essay, marked on the strength of your argument
+rather than on any code.
+
+## Task
+
+Choose one of the debates set for this assignment - the ones covering the course's data
+ethics and methodology sessions - and construct an argument that takes a clear position
+and defends it against the obvious objections, rather than describing both sides and
+declining to choose. An essay that surveys the literature without ever committing to a
+claim is the most common way marks are lost here.
+
+Use evidence deliberately: a claim about a method's limitations should point to a
+specific case or result, not a vague appeal to "the literature". Keep the structure
+simple - an introduction that states your position, a body that builds the case section
+by section, and a conclusion that could not be swapped for another essay's without
+changing the argument beneath it.
+
+Suggested approach:
+
+- Choose your question early and write your position in one sentence before drafting anything.
+- Outline the argument as a sequence of claims, and check each one has evidence behind it.
+- Draft the body before the introduction; write the introduction to match what you
+  actually argued.
+- Read it back for anywhere you hedge instead of arguing, and fix those first.
+
+## What to submit
+
+Upload your essay to Moodle (moodle.hertie-school.org). Nothing is collected from GitHub
+for this assignment; this repository holds the brief and nothing else.
+
+## Grading
+
+- Argument (40%): a clear position, defended against its obvious objections.
+- Evidence (30%): specific, relevant support for each substantive claim.
+- Writing (30%): structure, clarity, and whether the conclusion follows from the body.
+{% endraw %}
