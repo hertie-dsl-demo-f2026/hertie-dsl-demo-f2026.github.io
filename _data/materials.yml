@@ -20,7 +20,7 @@ sections:
           - name: "uncertainty.py"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/code/dldemo/uncertainty.py
   - name: "labs"
-    files: 11
+    files: 12
     entries:
       - name: "01_deep-learning-in-public-policy/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs/01_deep-learning-in-public-policy
@@ -34,8 +34,10 @@ sections:
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/01_deep-learning-in-public-policy/NOTES.md
       - name: "02_deep-neural-networks-1/"
         url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs/02_deep-neural-networks-1
-        files: 1
+        files: 2
         entries:
+          - name: "inspection-note.md"
+            url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/02_deep-neural-networks-1/inspection-note.md
           - name: "Lab_Session_2.ipynb"
             url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/02_deep-neural-networks-1/Lab_Session_2.ipynb
       - name: "03_deep-neural-networks-2/"
