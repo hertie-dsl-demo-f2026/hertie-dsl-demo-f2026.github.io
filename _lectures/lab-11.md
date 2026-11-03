@@ -5,7 +5,7 @@
 kind: lab
 number: 11
 date: 2026-10-15T13:01:21
-sort_at: 2026-10-01T14:01:00
+sort_at: 2026-11-12T14:01:00
 released_at: 2026-10-15T13:01:21
 title: "Lab 11"
 tabs: [lab]
