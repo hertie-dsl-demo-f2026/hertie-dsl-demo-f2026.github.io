@@ -6,9 +6,12 @@ kind: lab
 number: 12
 date: 2026-11-12T14:00:00
 sort_at: 2026-11-12T14:00:00
+released_at: 2026-11-03T21:17:58
 title: "Lab 12"
 tabs: [lab]
-unreleased: true
-links: []
+links:
+    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/12_tutorial-presentations/README.md
+      name: "README.md"
+      section: "lab"
 ---
-_**Materials for lab 12 are not yet released** - they will appear in [`materials/labs/12_tutorial-presentations`](https://github.com/hertie-dsl-demo-f2026/materials/tree/main/labs) when they are._
+
