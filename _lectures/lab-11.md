@@ -4,10 +4,13 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lab
 number: 11
-date: 2026-10-15T14:00:00
-sort_at: 2026-10-15T14:00:00
+date: 2026-10-15T13:01:21
+sort_at: 2026-10-01T14:01:00
 title: "Lab 11"
 tabs: [lab]
+tbc: true
+dateless: true
+announce: true
 links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/11_deep-learning-in-practice/Lab%20Session%2011%20%28b%29.ipynb
       name: "Lab Session 11 (b).ipynb"
