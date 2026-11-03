@@ -13,8 +13,5 @@ links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/02_deep-neural-networks-1/Lab_Session_2.ipynb
       name: "Lab_Session_2.ipynb"
       section: "lab"
-    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/labs/02_deep-neural-networks-1/inspection-note.md
-      name: "inspection-note.md"
-      section: "lab"
 ---
 
