@@ -38,8 +38,5 @@ links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/tree/main/lectures/01_deep-learning-in-public-policy/Session1_demo_deck_files
       name: "Session1_demo_deck_files/ (2 files)"
       section: "lecture"
-    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/01_deep-learning-in-public-policy/READINGS.md
-      name: "READINGS.md"
-      section: "reading"
 ---
 
