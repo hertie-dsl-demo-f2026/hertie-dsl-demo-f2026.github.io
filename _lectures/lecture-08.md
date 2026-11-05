@@ -40,8 +40,5 @@ links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/08_nlp-2-encoder-decoder-and-attention/Jacob%20Devlin%2C%20Ming-Wei%20Chang%2C%20Kenton%20Lee%2C%20Kristina%20Toutanova%20-%20BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf
       name: "Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova - BERT Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf"
       section: "reading"
-    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/08_nlp-2-encoder-decoder-and-attention/READINGS.md
-      name: "READINGS.md"
-      section: "reading"
 ---
 

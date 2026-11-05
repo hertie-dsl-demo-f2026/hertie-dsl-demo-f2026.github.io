@@ -23,8 +23,5 @@ links:
       view_url: https://hertie-dsl-demo-f2026.github.io/files/materials/lectures/02_deep-neural-networks-1/Session2_E1394_DL.pdf
       name: "Session2_E1394_DL.pdf"
       section: "lecture"
-    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/02_deep-neural-networks-1/READINGS.md
-      name: "READINGS.md"
-      section: "reading"
 ---
 

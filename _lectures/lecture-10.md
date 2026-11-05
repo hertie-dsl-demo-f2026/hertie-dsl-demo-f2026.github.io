@@ -47,9 +47,6 @@ links:
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/Amarasinghe%2C%20K.%2C%20Rodolfa%2C%20K.%2C%20Lamba%2C%20H.%2C%20%20Ghani%2C%20R.%20%282020%29.%20Explainable%20machine%20learning%20for%20public%20policy%20Use%20cases%2C%20gaps%2C%20and%20research%20directions.%20arXiv%20preprint%20arXiv2010.14374..pdf
       name: "Amarasinghe, K., Rodolfa, K., Lamba, H., Ghani, R. (2020). Explainable machine learning for public policy Use cases, gaps, and research directions. arXiv preprint arXiv2010.14374..pdf"
       section: "reading"
-    - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/READINGS.md
-      name: "READINGS.md"
-      section: "reading"
     - url: https://github.com/hertie-dsl-demo-f2026/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/understanding_artificial_intelligence_ethics_and_safety.pdf
       name: "understanding_artificial_intelligence_ethics_and_safety.pdf"
       section: "reading"
